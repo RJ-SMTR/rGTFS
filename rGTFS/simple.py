@@ -78,7 +78,7 @@ def get_departure_arrival(df):
     return new_df
 
 
-def get_trips_simple(_df):
+def get_realized_trips_simple(_df):
 
     _df = _df.sort_values(
         by=[
@@ -151,34 +151,34 @@ def get_service_id(dt, calendar):
     return calendar[calendar[dt.dayofweek] == 1]["service_id"].values[0]
 
 
-def get_trips(stops, gps, gtfs, ignore_vehicles_with_wrong_route_id):
+def get_realized_trips(stops, gps, gtfs, ignore_vehicles_with_wrong_route_id):
 
     if ignore_vehicles_with_wrong_route_id:
 
         matched = match_gps_and_stops(stops, gps)
 
-        trips = (
+        realized_trips = (
             matched[matched["route_id_stops"] == matched["route_id_gps"]]
             .rename(columns={"route_id_gps": "route_id"})
             .groupby("vehicle_id")
-            .apply(get_trips_simple)
+            .apply(get_realized_trips_simple)
             .reset_index(drop=True)
         )
 
         # Adds service id
         calendar = treat_calendar(gtfs)
-        trips["service_id"] = trips["departure_datetime"].apply(
+        realized_trips["service_id"] = realized_trips["departure_datetime"].apply(
             lambda r: get_service_id(r, calendar)
         )
 
         # Adds trip id
-        trips = pd.merge(
-            trips,
+        realized_trips = pd.merge(
+            realized_trips,
             gtfs.trips[["route_id", "direction_id", "service_id", "trip_id"]],
             on=["route_id", "direction_id", "service_id"],
         )
 
-    return trips[
+    return realized_trips[
         [
             "vehicle_id",
             "route_id",
@@ -191,10 +191,10 @@ def get_trips(stops, gps, gtfs, ignore_vehicles_with_wrong_route_id):
     ]
 
 
-def trips_to_gtfs(_trips, _gtfs):
+def realized_trips_to_gtfs(_realized_trips, _gtfs):
 
-    times = pd.DatetimeIndex(_trips["departure_datetime"])
-    t = _trips.groupby(["trip_id", times.hour]).count()["vehicle_id"]
+    times = pd.DatetimeIndex(_realized_trips["departure_datetime"])
+    t = _realized_trips.groupby(["trip_id", times.hour]).count()["vehicle_id"]
     t = (
         (3600 / t)
         .to_frame()
@@ -231,12 +231,14 @@ def main(
     )
     first_last_stops = gpd.GeoDataFrame(first_last_stops, geometry="stop_buffer")
 
-    trips = get_trips(first_last_stops, gps, gtfs, ignore_vehicles_with_wrong_route_id)
+    realized_trips = get_realized_trips(
+        first_last_stops, gps, gtfs, ignore_vehicles_with_wrong_route_id
+    )
 
-    rgtfs = trips_to_gtfs(trips, gtfs)
+    rgtfs = realized_trips_to_gtfs(realized_trips, gtfs)
     rgtfs.write(rgtfs_path)
 
-    return trips, rgtfs
+    return realized_trips, rgtfs
 
 
 if __name__ == "__main__":
