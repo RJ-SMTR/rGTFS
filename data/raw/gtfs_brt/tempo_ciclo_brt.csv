@@ -1,0 +1,41 @@
+route_id,direction_id,Serviço,CONCAT,Tipo,tempo_ciclo
+10,1,Santa Cruz x Alvorada,10_Santa Cruz x Alvorada,Expresso,140
+10,0,Alvorada x Santa Cruz,10_Alvorada x Santa Cruz,Expresso,145
+12,1,Pingo d’Agua x Alvorada,12_Pingo d’Agua x Alvorada,Expresso,110
+12,0,Alvorada x Pingo d’Água,12_Alvorada x Pingo d’Água,Expresso,115
+13,1,Mato alto x Alvorada,13_Mato alto x Alvorada,Expresso,90
+13,0,Alvorada x Mato Alto,13_Alvorada x Mato Alto,Expresso,95
+14,1,Campo Grande x Salvador Allende,14_Campo Grande x Salvador Allende,Expresso,150
+14,0,Salvador Allende x Campo Grande,14_Salvador Allende x Campo Grande,Expresso,155
+18,1,Recreio Shopping x Jd. Oceanico,18_Recreio Shopping x Jd. Oceanico,Expresso,85
+18,0,Jd. Oceânico x Recreio Shopping,18_Jd. Oceânico x Recreio Shopping,Expresso,90
+19,1,Pingo d’Agua x Salvador Allende,19_Pingo d’Agua x Salvador Allende,Expresso,90
+19,0,Salvador Allende x Pingo d’Água,19_Salvador Allende x Pingo d’Água,Expresso,95
+20,1,Santa Cruz x Salvador Allende,20_Santa Cruz x Salvador Allende,Expresso,120
+20,0,Salvador Allende x Santa Cruz,20_Salvador Allende x Santa Cruz,Expresso,125
+22,1,Alvorada x Jd. Oceanico,22_Alvorada x Jd. Oceanico,Parador,40
+22,0,Jd. Oceanico x Alvorada,22_Jd. Oceanico x Alvorada,Parador,45
+31,1,Vicente de Carvalho x Alvorada,31_Vicente de Carvalho x Alvorada,SemiDireto,110
+31,0,Alvorada x Vicente de Carvalho,31_Alvorada x Vicente de Carvalho,SemiDireto,115
+41,1,Madureira x Recreio,41_Madureira x Recreio,Expresso,100
+41,0,Recreio x Madureira,41_Recreio x Madureira,Expresso,105
+46,1,Penha x Alvorada,46_Penha x Alvorada,Expresso,140
+46,0,Alvorada x Penha,46_Alvorada x Penha,Expresso,145
+50,0,Jd. Oceanico x Centro Olímpico,50_Jd. Oceanico x Centro Olímpico,Parador,75
+50,1,Centro Olímpico x Jd. Oceânico,50_Centro Olímpico x Jd. Oceânico,Parador,80
+51,1,Vila Militar x Recreio,51_Vila Militar x Recreio,Parador,80
+51,0,Recreio x Vila Militar,51_Recreio x Vila Militar,Parador,85
+25A,1,Mato alto x Alvorada,25A_Mato alto x Alvorada,Parador,120
+25A,0,Alvorada x Mato Alto,25A_Alvorada x Mato Alto,Parador,125
+35A,1,Madureira x Jd. Oceânico,35A_Madureira x Jd. Oceânico,Parador,140
+35A,0,Jd. Oceânico x Madureira,35A_Jd. Oceânico x Madureira,Parador,145
+40A,1,Madureira x Alvorada,40A_Madureira x Alvorada,Expresso,90
+40A,0,Alvorada x Madureira,40A_Alvorada x Madureira,Expresso,95
+42A,1,Galeão x Madureira,42A_Galeão x Madureira,Parador,120
+42A,0,Madureira x Galeão,42A_Madureira x Galeão,Parador,125
+51A,1,Vila Militar x Alvorada,51A_Vila Militar x Alvorada,Parador,85
+51A,0,Alvorada x Vila Militar,51A_Alvorada x Vila Militar,Parador,90
+53A,1,Sulacap x Alvorada,53A_Sulacap x Alvorada,Expresso,65
+53A,0,Alvorada x Sulacap,53A_Alvorada x Sulacap,Expresso,70
+LECD33,0,Campo Grande x Santa Cruz,LECD33_Campo Grande x Santa Cruz,Parador,40
+LECD33,1,Santa Cruz x Campo Grande,LECD33_Santa Cruz x Campo Grande,Parador,45

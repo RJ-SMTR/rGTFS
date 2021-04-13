@@ -1,0 +1,23 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+10,148,BRT 10,Santa Cruz - Terminal Alvorada,,3,,000080,FFFFFF
+11,148,BRT 11,Santa Cruz - Terminal Alvorada,,3,,000080,FFFFFF
+12,148,BRT 12,Pingo D'água - Terminal Alvorada,,3,,000080,FFFFFF
+13,148,BRT 13,Mato Alto - Terminal Alvorada,,3,,000080,FFFFFF
+14,148,BRT 14,Campo Grande - Salvador Allende,,3,,000080,FFFFFF
+18,148,BRT 18,Recreio Shopping - Jardim Oceânico,,3,,000080,FFFFFF
+19,148,BRT 19,Pingo D´Água - Salvador Allende,,3,,000080,FFFFFF
+20,148,BRT 20,Santa Cruz - Salvador Allende,,3,,000080,FFFFFF
+22,148,BRT 22,Terminal Alvorada - Jardim Oceânico,,3,,000080,FFFFFF
+25A,148,BRT 25A,Mato Alto - Terminal Alvorada,,3,,000080,FFFFFF
+LECD33,148,BRT LECD 33,Campo Grande - Santa Cruz,,3,,000080,FFFFFF
+50,148,BRT 50,Jardim Oceânico - Terminal Centro Olímpico,,3,,00a44e,FFFFFF
+51,148,BRT 51,Vila Militar - Terminal Recreio,,3,,00a44e,FFFFFF
+51A,148,BRT 51A,Vila Militar - Terminal Alvorada,,3,,00a44e,FFFFFF
+53A,148,BRT 53A,Sulacap - Terminal Alvorada,,3,,00a44e,FFFFFF
+38,148,BRT 38,Galeão - Terminal Alvorada,,3,,FF6600,000000
+31,148,BRT 31,Vicente de Carvalho - Terminal Alvorada,,3,,FF6600,000000
+41,148,BRT 41,Terminal Madureira - Terminal Recreio,,3,,FF6600,000000
+46,148,BRT 46,Penha - Terminal Alvorada,,3,,FF6600,000000
+35A,148,BRT 35A,Terminal Madureira - Jardim Oceânico,,3,,FF6600,000000
+40A,148,BRT 40A,Terminal Madureira - Terminal Alvorada,,3,,FF6600,000000
+42A,148,BRT 42A,Galeão - Madureira Manaceia,,3,,FF6600,000000
