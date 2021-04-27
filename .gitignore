@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 .rGTFS/
+data/
+.DS_Store
