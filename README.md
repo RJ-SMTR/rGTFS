@@ -6,6 +6,9 @@ Tool to compare planned GTFS with real GTFS (rGTFS) extracted from GPS data.
 ```
 import rgtfs
 
+# Generage Realized Trips from GTFS
+rgtfs.generate_realized_trips_from_gtfs(gtfs_path)
+
 # Treat Rio de Janeiro BRT realized trips
 rgtfs.helpers.treat_rj_brt_realized_trips(brt_raw_realized_trips_path)
 ```
