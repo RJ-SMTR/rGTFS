@@ -1,0 +1,1 @@
+from rgtfs.entrypoint import generate_realized_trips_from_gtfs

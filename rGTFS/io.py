@@ -3,9 +3,9 @@ import pandas as pd
 import pymove as pm
 
 
-def read_gtfs(gtfs_path, dist_units):
+def read_gtfs(gtfs_path, dist_units="km"):
 
-    return gk.read_feed(gtfs_path, dist_units="km")
+    return gk.read_feed(gtfs_path, dist_units=dist_units)
 
 
 def read_gps(gps_path):

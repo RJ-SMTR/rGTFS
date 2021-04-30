@@ -1,4 +1,6 @@
 import pandas as pd
+from datetime import datetime
+
 from rgtfs.tables import realized_trips_cols
 
 cols = {
@@ -90,7 +92,7 @@ trajectory_type_map = {
 def translate(raw_path):
     """Reads official Rio de Janeiro BRT realized trips file
     and converts to standarized realized trips.
-    
+
     TODO:
     - get trip_id, maybe from GTFS?
     - get departure_id and arrival_id, also from GTFS?
@@ -107,6 +109,8 @@ def translate(raw_path):
         na_values=["-"],
         decimal=",",
         parse_dates=["Data"],
+        infer_datetime_format=False,
+        date_parser=lambda x: datetime.strptime(x, "%d/%m/%Y"),
     )
 
     # filter columns
@@ -135,6 +139,8 @@ def translate(raw_path):
             original_brt[c] = None
 
     # vehicle id to str
-    original_brt["vehicle_id"] = original_brt["vehicle_id"].astype(int).astype(str)
+    # original_brt["vehicle_id"] = (
+    #     original_brt["vehicle_id"].apply(lambda x: x.replace"*", "").astype(int).astype(str)
+    # )
 
     return original_brt[realized_trips_cols]
