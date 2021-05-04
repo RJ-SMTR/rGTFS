@@ -131,3 +131,4 @@ dmypy.json
 .rGTFS/
 data/
 .DS_Store
+gtfs_kit

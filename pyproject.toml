@@ -1,0 +1,46 @@
+[tool.poetry]
+authors = ["Joao Carabetta <joao.carabetta@gmail.com>"]
+classifiers = [
+  "Topic :: Software Development :: Build Tools",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+]
+description = "Calculates the retroactive GTFS based on GPS data"
+homepage = "https://github.com/RJ-SMTR/rGTFS"
+license = "MIT"
+name = "rgtfs"
+packages = [
+  {include = "rgtfs"},
+]
+readme = "README.md"
+repository = "https://github.com/RJ-SMTR/rGTFS"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = "^3.6"
+pandas = "^1.1.0"
+gtfs-kit = "5.0.2"
+pymove= "2.7.2"
+
+[tool.black]
+# Use the more relaxed max line length permitted in PEP8.
+exclude = '''
+/(
+    \.eggs
+  | \.git
+  | \.mypy_cache
+  | \.tox
+  | \venv
+  | build
+  | dist
+  | htmlcov
+)/
+'''
+line-length = 88
+target-version = ["py36", "py37", "py38"]
+
+[build-system]
+build-backend = "poetry.masonry.api"
+requires = ["poetry>=0.12"]
+
+[pytest]
+addopts = "-p no:warnings"

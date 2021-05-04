@@ -7,6 +7,15 @@ from rgtfs import io, tables
 
 def calculate_exits(row, calendar_dates_by_trip_id):
 
+    dow = {
+        0: "monday",
+        1: "tuesday",
+        2: "wednesday",
+        3: "thursday",
+        4: "friday",
+        5: "saturday",
+        6: "sunday",
+    }
     _df = []
 
     calendar = calendar_dates_by_trip_id.query(f'trip_id == "{row["trip_id"]}"').iloc[0]
@@ -14,7 +23,12 @@ def calculate_exits(row, calendar_dates_by_trip_id):
     current_date = pd.Timestamp(str(calendar["start_date"]))
     end_date = pd.Timestamp(str(calendar["end_date"]))
 
+    # Loop through all dates in calendar
     while current_date <= end_date:
+
+        # Has to be match day of the week
+        if not calendar[dow[current_date.weekday()]]:
+            current_date = current_date + datetime.timedelta(days=1)
 
         current_time = pd.Timestamp(str(current_date.date()) + " " + row["start_time"])
         end_time = pd.Timestamp(str(current_date.date()) + " " + row["end_time"])
@@ -34,15 +48,29 @@ def calculate_exits(row, calendar_dates_by_trip_id):
 
 
 def generate_realized_trips_from_gtfs(gtfs_path):
+    """Transforms a GTFS feed to realized_trips format (see README for specification).
+    
+    It can either read a feed zip file or a folder.
+
+    Parameters
+    ----------
+    gtfs_path : str
+        GTFS feed zip file or folder path
+
+    Returns
+    -------
+    pd.DataFrame
+        realized_trips data structure (see README for specification)
+    """
 
     gtfs = io.read_gtfs(gtfs_path, "km")
 
     # Generates all exits
     calendar_dates_by_trip_id = (
-        pd.merge(gtfs.trips, gtfs.calendar, on=["service_id"])
-    ).drop_duplicates(subset=["service_id", "trip_id"])[
-        ["trip_id", "start_date", "end_date"]
-    ]
+        pd.merge(
+            gtfs.trips[["service_id", "trip_id"]], gtfs.calendar, on=["service_id"]
+        )
+    ).drop_duplicates(subset=["service_id", "trip_id"])
 
     realized_trips = []
     for i, row in gtfs.frequencies.iterrows():
