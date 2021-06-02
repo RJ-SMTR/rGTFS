@@ -1,425 +1,425 @@
-stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,platform_code,stop_brt,active
-51914872030,,31 de Outubro,Avenida Cesário de Melo próximo ao 11270,-22.91825,-43.63906,,,1,,,,BRT Transoeste,0
-519148720370,,31 de Outubro,Avenida Cesário de Melo próximo ao 11270,-22.91818,-43.63904,,,0,51914872030,,,BRT Transoeste,0
-519148720371,,31 de Outubro,Avenida Cesário de Melo próximo ao 11270,-22.91825,-43.63897,,,0,51914872030,,,BRT Transoeste,0
-42412873020,,Aeroporto de Jacarepaguá,Aeroporto de Jacarepaguá,-22.98903,-43.36581,,,1,,,,BRT Transcarioca,1
-424128730270,,Aeroporto de Jacarepaguá,Aeroporto de Jacarepaguá,-22.98903,-43.36584,,,0,42412873020,,,BRT Transcarioca,1
-424128730271,,Aeroporto de Jacarepaguá,Aeroporto de Jacarepaguá,-22.98903,-43.36576,,,0,42412873020,,,BRT Transcarioca,1
-42412871160,,Afrânio Costa,Avenida das Américas próximo ao 1981,-23.00056,-43.33513,,,1,,,,BRT Transoeste,1
-424128711670,,Afrânio Costa,Avenida das Américas próximo ao 1981,-23.00052,-43.33515,,,0,42412871160,,,BRT Transoeste,1
-424128711671,,Afrânio Costa,Avenida das Américas próximo ao 1981,-23.00055,-43.3351,,,0,42412871160,,,BRT Transoeste,1
-42412871070,,Américas Park,Avenida das Américas próximo ao 7606,-23.00042,-43.38979,,,1,,,,BRT Transoeste,1
-424128710770,,Américas Park,Avenida das Américas próximo ao 7606,-23.00038,-43.38968,,,0,42412871070,,,BRT Transoeste,1
-424128710771,,Américas Park,Avenida das Américas próximo ao 7606,-23.00048,-43.38973,,,0,42412871070,,,BRT Transoeste,1
-51814672020,,Ana Gonzaga,Avenida Cesário de Melo próximo ao 6318,-22.91132,-43.58975,,,1,,,,BRT Transoeste,0
-518146720270,,Ana Gonzaga,Avenida Cesário de Melo próximo ao 6318,-22.91126,-43.58972,,,0,51814672020,,,BRT Transoeste,0
-518146720271,,Ana Gonzaga,Avenida Cesário de Melo próximo ao 6318,-22.91135,-43.58968,,,0,51814672020,,,BRT Transoeste,0
-41612273040,,André Rocha,Estrada dos Bandeirantes próximo ao 643,-22.92949,-43.37343,,,1,,,,BRT Transcarioca,1
-416122730470,,André Rocha,Estrada dos Bandeirantes próximo ao 643,-22.92948,-43.37347,,,0,41612273040,,,BRT Transcarioca,1
-416122730471,,André Rocha,Estrada dos Bandeirantes próximo ao 643,-22.92948,-43.37339,,,0,41612273040,,,BRT Transcarioca,1
-41612273060,,Aracy Cabral,Avenida Nelson Cardoso próximo ao 796,-22.92016,-43.36821,,,1,,,,BRT Transcarioca,1
-416122730670,,Aracy Cabral,Avenida Nelson Cardoso próximo ao 796,-22.92012,-43.36822,,,0,41612273060,,,BRT Transcarioca,1
-416122730671,,Aracy Cabral,Avenida Nelson Cardoso próximo ao 796,-22.92018,-43.36815,,,0,41612273060,,,BRT Transcarioca,1
-41611973030,,Arroio Pavuna,Estrada dos Bandeirantes próximo ao 3917,-22.95527,-43.37735,,,1,,,,BRT Transcarioca,0
-416119730370,,Arroio Pavuna,Estrada dos Bandeirantes próximo ao 3917,-22.95526,-43.3774,,,0,41611973030,,,BRT Transcarioca,0
-416119730371,,Arroio Pavuna,Estrada dos Bandeirantes próximo ao 3917,-22.9553,-43.37732,,,0,41611973030,,,BRT Transcarioca,0
-41611574030,,Asa Branca,Avenida Salvador Allende próximo ao 4811,-22.96325,-43.39379,,,1,,,,BRT Transolímpica,1
-416115740370,,Asa Branca,Avenida Salvador Allende próximo ao 4811,-22.96315,-43.39376,,,0,41611574030,,,BRT Transolímpica,1
-416115740371,,Asa Branca,Avenida Salvador Allende próximo ao 4811,-22.9632,-43.39368,,,0,41611574030,,,BRT Transolímpica,1
-42412871150,,Barra Garden / Riviera,Avenida das Américas próximo ao 3201,-23.00026,-43.34202,,,1,,,,BRT Transoeste,1
-424128711570,,Barra Garden / Riviera,Avenida das Américas próximo ao 3201,-23.00021,-43.34202,,,0,42412871150,,,BRT Transoeste,1
-424128711571,,Barra Garden / Riviera,Avenida das Américas próximo ao 3201,-23.0003,-43.3421,,,0,42412871150,,,BRT Transoeste,1
-42412871120,,Barra Shopping (Expresso),Avenida das Américas próximo ao 4485,-22.99997,-43.35993,,,1,,,,BRT Transoeste,0
-424128711280,,Barra Shopping (Expresso),Avenida das Américas próximo ao 4485,-22.99991,-43.35982,,,0,42412871120,,,BRT Transoeste,0
-424128711281,,Barra Shopping (Expresso),Avenida das Américas próximo ao 4485,-23.00004,-43.35986,,,0,42412871120,,,BRT Transoeste,0
-42412871110,,Barra Shopping (Parador),Avenida das Américas próximo ao 4485,-22.99998,-43.36127,,,1,,,,BRT Transoeste,1
-424128711170,,Barra Shopping (Parador),Avenida das Américas próximo ao 4485,-22.99993,-43.36131,,,0,42412871110,,,BRT Transoeste,1
-424128711171,,Barra Shopping (Parador),Avenida das Américas próximo ao 4485,-23.00002,-43.3613,,,0,42412871110,,,BRT Transoeste,1
-42413271090,,Benvindo de Novaes,Avenida das Américas próximo ao 15801,-23.01438,-43.46666,,,1,,,,BRT Transoeste,0
-424132710970,,Benvindo de Novaes,Avenida das Américas próximo ao 15801,-23.01435,-43.46671,,,0,42413271090,,,BRT Transoeste,0
-424132710971,,Benvindo de Novaes,Avenida das Américas próximo ao 15801,-23.01443,-43.46668,,,0,42413271090,,,BRT Transoeste,0
-41612274010,,Boiúna,Corredor Presidente Tancredo Neves,-22.91567,-43.39808,,,1,,,,BRT Transolímpica,1
-416122740170,,Boiúna,Corredor Presidente Tancredo Neves,-22.91569,-43.39812,,,0,41612274010,,,BRT Transolímpica,1
-416122740171,,Boiúna,Corredor Presidente Tancredo Neves,-22.91562,-43.39807,,,0,41612274010,,,BRT Transolímpica,1
-42412871090,,Bosque da Barra,Avenida das Américas próximo ao 205,-23.00032,-43.37748,,,1,,,,BRT Transoeste,1
-424128710970,,Bosque da Barra,Avenida das Américas próximo ao 205,-23.00027,-43.37746,,,0,42412871090,,,BRT Transoeste,1
-424128710971,,Bosque da Barra,Avenida das Américas próximo ao 205,-23.00036,-43.37744,,,0,42412871090,,,BRT Transoeste,1
-42412871180,,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.0035,-43.32349,,,1,,,,BRT Transoeste,1
-424128711870,,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.00327,-43.3239,,,0,42412871180,,,BRT Transoeste,1
-424128711871,,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.00336,-43.32396,,,0,42412871180,,,BRT Transoeste,1
-424128711880,,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.00365,-43.32298,,,0,42412871180,,,BRT Transoeste,1
-424128711881,,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.00373,-43.32303,,,0,42412871180,,,BRT Transoeste,1
-51914971040,,Cajueiros,Rua Felipe Cardoso próximo ao 1859,-22.93082,-43.67352,,,1,,,,BRT Transoeste,0
-519149710470,,Cajueiros,Rua Felipe Cardoso próximo ao 1859,-22.93083,-43.67346,,,0,51914971040,,,BRT Transoeste,0
-519149710471,,Cajueiros,Rua Felipe Cardoso próximo ao 1859,-22.93089,-43.67349,,,0,51914971040,,,BRT Transoeste,0
-31508373010,,Campinho,Rua Domingos Lopes próximo ao 111,-22.88219,-43.3419,,,1,,,,BRT Transcarioca,1
-315083730170,,Campinho,Rua Domingos Lopes próximo ao 111,-22.88212,-43.34194,,,0,31508373010,,,BRT Transcarioca,1
-315083730171,,Campinho,Rua Domingos Lopes próximo ao 111,-22.88213,-43.34185,,,0,31508373010,,,BRT Transcarioca,1
-51814472010,,Campo Grande,Rua Aurélio de Figueiredo próximo ao 15,-22.90177,-43.55479,,,1,,,,BRT Transoeste,1
-518144720170,,Campo Grande,Rua Aurélio de Figueiredo próximo ao 15,-22.90181,-43.55477,,,0,51814472010,,,BRT Transoeste,1
-518144720171,,Campo Grande,Rua Aurélio de Figueiredo próximo ao 15,-22.90172,-43.5548,,,0,51814472010,,,BRT Transoeste,1
-51814472060,,Cândido Magalhães,Avenida Cesário de Melo próximo ao 3280,-22.90769,-43.56407,,,1,,,,BRT Transoeste,0
-518144720671,,Cândido Magalhães,Avenida Cesário de Melo próximo ao 3280,-22.90772,-43.56404,,,0,51814472060,,,BRT Transoeste,0
-41612473030,,Capitão Menezes,Rua Cândido Benício próximo ao 1164,-22.89289,-43.34862,,,1,,,,BRT Transcarioca,1
-416124730370,,Capitão Menezes,Rua Cândido Benício próximo ao 1164,-22.89288,-43.34866,,,0,41612473030,,,BRT Transcarioca,1
-416124730371,,Capitão Menezes,Rua Cândido Benício próximo ao 1164,-22.89291,-43.34858,,,0,41612473030,,,BRT Transcarioca,1
-31004173010,,Cardoso de Moraes,Rua Emílio Zaluar próximo ao 3,-22.85743,-43.25809,,,1,,,,BRT Transcarioca,0
-310041730171,,Cardoso de Moraes,Rua Emílio Zaluar próximo ao 3,-22.85749,-43.25809,,,0,31004173010,,,BRT Transcarioca,0
-310041730170,,Cardoso Moraes,Rua Emílio Zaluar próximo ao 3,-22.85739,-43.25807,,,0,31004173010,,,BRT Transcarioca,0
-42413274020,,Catedral do Recreio,Avenida Salvador Allende próximo ao 168,-23.00373,-43.43395,,,1,,,,BRT Transolímpica,0
-424132740270,,Catedral do Recreio,Avenida Salvador Allende próximo ao 168,-23.0037,-43.43397,,,0,42413274020,,,BRT Transolímpica,0
-424132740271,,Catedral do Recreio,Avenida Salvador Allende próximo ao 168,-23.00376,-43.43391,,,0,42413274020,,,BRT Transolímpica,0
-41611573010,,Centro Metropolitano,Avenida Embaixador Abelardo Bueno próximo ao 511,-22.97338,-43.3656,,,1,,,,BRT Transcarioca,1
-416115730170,,Centro Metropolitano,Avenida Embaixador Abelardo Bueno próximo ao 511,-22.97341,-43.36561,,,0,41611573010,,,BRT Transcarioca,1
-416115730171,,Centro Metropolitano,Avenida Embaixador Abelardo Bueno próximo ao 511,-22.97334,-43.36562,,,0,41611573010,,,BRT Transcarioca,1
-51914972050,,Cesarão I,Avenida Cesário de Melo próximo ao 14114,-22.93462,-43.66536,,,1,,,,BRT Transoeste,0
-519149720570,,Cesarão I,Avenida Cesário de Melo próximo ao 14114,-22.93452,-43.66535,,,0,51914972050,,,BRT Transoeste,0
-519149720571,,Cesarão I,Avenida Cesário de Melo próximo ao 14114,-22.93458,-43.66527,,,0,51914972050,,,BRT Transoeste,0
-51914972040,,Cesarão II,Avenida Cesário de Melo próximo ao 13674,-22.93344,-43.66197,,,1,,,,BRT Transoeste,0
-519149720470,,Cesarão II,Avenida Cesário de Melo próximo ao 13674,-22.93337,-43.66192,,,0,51914972040,,,BRT Transoeste,0
-519149720471,,Cesarão II,Avenida Cesário de Melo próximo ao 13674,-22.93345,-43.66189,,,0,51914972040,,,BRT Transoeste,0
-51914972030,,Cesarão III,Avenida Cesário de Melo próximo ao 13098,-22.93174,-43.65727,,,1,,,,BRT Transoeste,0
-519149720370,,Cesarão III,Avenida Cesário de Melo próximo ao 13098,-22.93166,-43.65723,,,0,51914972030,,,BRT Transoeste,0
-519149720371,,Cesarão III,Avenida Cesário de Melo próximo ao 13098,-22.93174,-43.65718,,,0,51914972030,,,BRT Transoeste,0
-51914872040,,Cesarinho,Avenida Cesário de Melo próximo ao 11692,-22.92046,-43.64355,,,1,,,,BRT Transoeste,0
-519148720470,,Cesarinho,Avenida Cesário de Melo próximo ao 11692,-22.92037,-43.64348,,,0,51914872040,,,BRT Transoeste,0
-519148720471,,Cesarinho,Avenida Cesário de Melo próximo ao 11692,-22.92046,-43.64344,,,0,51914872040,,,BRT Transoeste,0
-41611574050,,Colônia,Corredor Presidente Tancredo Neves,-22.94098,-43.39464,,,1,,,,BRT Transolímpica,1
-416115740570,,Colônia,Corredor Presidente Tancredo Neves,-22.94108,-43.39467,,,0,41611574050,,,BRT Transolímpica,1
-416115740571,,Colônia,Corredor Presidente Tancredo Neves,-22.94106,-43.39459,,,0,41611574050,,,BRT Transolímpica,1
-51814772010,,Cosmos,Avenida Cesário de Melo próximo ao 8960,-22.91566,-43.61608,,,1,,,,BRT Transoeste,0
-518147720170,,Cosmos,Avenida Cesário de Melo próximo ao 8960,-22.91563,-43.61602,,,0,51814772010,,,BRT Transoeste,0
-518147720171,,Cosmos,Avenida Cesário de Melo próximo ao 8960,-22.91572,-43.61604,,,0,51814772010,,,BRT Transoeste,0
-52615171050,,CTEX,Avenida Dom Joao VI próximo ao 1618,-23.00523,-43.55844,,,1,,,,BRT Transoeste,1
-526151710570,,CTEx,Avenida Dom Joao VI próximo ao 1618,-23.00518,-43.55837,,,0,52615171050,,,BRT Transoeste,1
-526151710571,,CTEx,Avenida Dom Joao VI próximo ao 1618,-23.00527,-43.55841,,,0,52615171050,,,BRT Transoeste,1
-41611973010,,Curicica,Estrada dos Bandeirantes próximo ao 5000,-22.95985,-43.38868,,,1,,,,BRT Transcarioca,1
-416119730170,,Curicica,Estrada dos Bandeirantes próximo ao 5000,-22.95981,-43.3887,,,0,41611973010,,,BRT Transcarioca,1
-416119730171,,Curicica,Estrada dos Bandeirantes próximo ao 5000,-22.95988,-43.38863,,,0,41611973010,,,BRT Transcarioca,1
-51914971050,,Curral Falso,Estrada da Pedra próximo ao 2,-22.93655,-43.66694,,,1,,,,BRT Transoeste,1
-519149710570,,Curral Falso,Estrada da Pedra próximo ao 2,-22.93648,-43.66691,,,0,51914971050,,,BRT Transoeste,1
-519149710571,,Curral Falso,Estrada da Pedra próximo ao 2,-22.93648,-43.66698,,,0,51914971050,,,BRT Transoeste,1
-41612273010,,Divina Providência,Estrada dos Bandeirantes próximo ao 1793,-22.94066,-43.37255,,,1,,,,BRT Transcarioca,0
-416122730170,,Divina Providência,Estrada dos Bandeirantes próximo ao 1793,-22.94067,-43.3726,,,0,41612273010,,,BRT Transcarioca,0
-416122730171,,Divina Providência,Estrada dos Bandeirantes próximo ao 1793,-22.94064,-43.37251,,,0,41612273010,,,BRT Transcarioca,0
-42413271020,,Dom Bosco,Avenida das Américas próximo ao 20055,-23.01821,-43.509,,,1,,,,BRT Transoeste,0
-424132710270,,Dom Bosco,Avenida das Américas próximo ao 20055,-23.01817,-43.50896,,,0,42413271020,,,BRT Transoeste,0
-424132710271,,Dom Bosco,Avenida das Américas próximo ao 20055,-23.01825,-43.50904,,,0,42413271020,,,BRT Transoeste,0
-52615171040,,Embrapa,Avenida Dom Joao VI próximo ao 8201,-22.9996,-43.5823,,,1,,,,BRT Transoeste,0
-526151710470,,Embrapa,Avenida Dom Joao VI próximo ao 8201,-22.99957,-43.58221,,,0,52615171040,,,BRT Transoeste,0
-526151710471,,Embrapa,Avenida Dom Joao VI próximo ao 8201,-22.99965,-43.58229,,,0,52615171040,,,BRT Transoeste,0
-32010573019,,Fundão,Terminal Aroldo Melodia,-22.83936,-43.23978,,,1,,,,BRT Transcarioca,1
-320105730190,,Fundão,Terminal Aroldo Melodia,-22.83946,-43.23977,,,0,32010573019,,,BRT Transcarioca,1
-32010473020,,Galeão - Tom Jobim 1,Aeroporto Internacional do Rio de Janeiro - Galeão - Terminal 1,-22.81108,-43.25148,,,1,,,,BRT Transcarioca,1
-320104730270,,Galeão - Tom Jobim 1,Aeroporto Internacional do Rio de Janeiro - Galeão - Terminal 1,-22.81107,-43.25154,,,0,32010473020,,,BRT Transcarioca,1
-32010473010,,Galeão - Tom Jobim 2,Aeroporto Internacional do Rio de Janeiro - Galeão - Terminal 2,-22.81453,-43.24626,,,1,,,,BRT Transcarioca,1
-320104730170,,Galeão - Tom Jobim 2,Aeroporto Internacional do Rio de Janeiro - Galeão - Terminal 2,-22.81451,-43.24633,,,0,32010473010,,,BRT Transcarioca,1
-51914971030,,Gastão Rangel,Rua Felipe Cardoso próximo ao 1473,-22.92754,-43.67758,,,1,,,,BRT Transoeste,1
-519149710370,,Gastão Rangel,Rua Felipe Cardoso próximo ao 1473,-22.92748,-43.67758,,,0,51914971030,,,BRT Transoeste,1
-519149710371,,Gastão Rangel,Rua Felipe Cardoso próximo ao 1473,-22.92753,-43.67767,,,0,51914971030,,,BRT Transoeste,1
-42413271120,,Gelson Fonseca,Avenida das Américas próximo ao 137,-23.00977,-43.44864,,,1,,,,BRT Transoeste,0
-424132711270,,Gelson Fonseca,Avenida das Américas próximo ao 137,-23.00974,-43.44869,,,0,42413271120,,,BRT Transoeste,0
-424132711271,,Gelson Fonseca,Avenida das Américas próximo ao 137,-23.00981,-43.44864,,,0,42413271120,,,BRT Transoeste,0
-51914971020,,General Olímpio,Rua Felipe Cardoso próximo ao 822,-22.92222,-43.67966,,,1,,,,BRT Transoeste,1
-519149710270,,General Olímpio,Rua Felipe Cardoso próximo ao 822,-22.92224,-43.67961,,,0,51914971020,,,BRT Transoeste,1
-519149710271,,General Olímpio,Rua Felipe Cardoso próximo ao 822,-22.92227,-43.67969,,,0,51914971020,,,BRT Transoeste,1
-42413271070,,Gilka Machado,Avenida das Américas próximo ao 146,-23.01699,-43.47697,,,1,,,,BRT Transoeste,1
-424132710770,,Gilka Machado,Avenida das Américas próximo ao 146,-23.01694,-43.47694,,,0,42413271070,,,BRT Transoeste,1
-424132710771,,Gilka Machado,Avenida das Américas próximo ao 146,-23.01702,-43.47691,,,0,42413271070,,,BRT Transoeste,1
-42413271100,,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.0124,-43.45888,,,1,,,,BRT Transoeste,1
-424132711070,,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.01225,-43.45848,,,0,42413271100,,,BRT Transoeste,1
-424132711071,,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.01233,-43.45844,,,0,42413271100,,,BRT Transoeste,1
-424132711080,,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.01245,-43.45931,,,0,42413271100,,,BRT Transoeste,1
-424132711081,,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.01254,-43.45928,,,0,42413271100,,,BRT Transoeste,1
-42412871040,,Golfe Olímpico,Avenida das Américas próximo ao 10101,-23.00003,-43.41218,,,1,,,,BRT Transoeste,0
-424128710470,,Golfe Olímpico,Avenida das Américas próximo ao 10101,-22.99998,-43.41221,,,0,42412871040,,,BRT Transoeste,0
-424128710471,,Golfe Olímpico,Avenida das Américas próximo ao 10101,-23.00009,-43.41223,,,0,42412871040,,,BRT Transoeste,0
-51814472030,,Gramado,Rua Gramado próximo ao 190,-22.90444,-43.5706,,,1,,,,BRT Transoeste,1
-518144720370,,Gramado,Rua Gramado próximo ao 190,-22.9044,-43.57058,,,0,51814472030,,,BRT Transoeste,1
-31104473030,,Guaporé,Avenida Brás de Pina próximo ao 651,-22.83765,-43.28972,,,1,,,,BRT Transcarioca,0
-311044730370,,Guaporé,Avenida Brás de Pina próximo ao 651,-22.8376,-43.28982,,,0,31104473030,,,BRT Transcarioca,0
-311044730371,,Guaporé,Avenida Brás de Pina próximo ao 651,-22.83768,-43.28982,,,0,31104473030,,,BRT Transcarioca,0
-42413271110,,Guignard,Avenida das Américas próximo ao 35,-23.01079,-43.45263,,,1,,,,BRT Transoeste,0
-424132711170,,Guignard,Avenida das Américas próximo ao 35,-23.01075,-43.45266,,,0,42413271110,,,BRT Transoeste,0
-424132711171,,Guignard,Avenida das Américas próximo ao 35,-23.01083,-43.45261,,,0,42413271110,,,BRT Transoeste,0
-42413271060,,Guiomar Novaes,Avenida das Américas próximo ao 18500,-23.01843,-43.48261,,,1,,,,BRT Transoeste,0
-424132710670,,Guiomar Novaes,Avenida das Américas próximo ao 18500,-23.01839,-43.48262,,,0,42413271060,,,BRT Transoeste,0
-424132710671,,Guiomar Novaes,Avenida das Américas próximo ao 18500,-23.01846,-43.48258,,,0,42413271060,,,BRT Transoeste,0
-31104373040,,Ibiapina,Rua Ibiapina próximo ao 205,-22.84241,-43.2726,,,1,,,,BRT Transcarioca,0
-311043730470,,Ibiapina,Rua Ibiapina próximo ao 205,-22.84239,-43.27251,,,0,31104373040,,,BRT Transcarioca,0
-311043730471,,Ibiapina,Rua Ibiapina próximo ao 205,-22.84245,-43.2726,,,0,31104373040,,,BRT Transcarioca,0
-51814672050,,Icurana,Avenida Cesário de Melo próximo ao 7800,-22.91511,-43.60583,,,1,,,,BRT Transoeste,0
-518146720570,,Icurana,Avenida Cesário de Melo próximo ao 7800,-22.91504,-43.60579,,,0,51814672050,,,BRT Transoeste,1
-518146720571,,Icurana,Avenida Cesário de Melo próximo ao 7800,-22.91513,-43.60576,,,0,51814672050,,,BRT Transoeste,1
-52615171060,,Ilha de Guaratiba,Avenida Dom Joao VI,-23.00942,-43.53993,,,1,,,,BRT Transoeste,1
-526151710670,,Ilha de Guaratiba,Avenida Dom Joao VI,-23.0094,-43.53986,,,0,52615171060,,,BRT Transoeste,1
-526151710671,,Ilha de Guaratiba,Avenida Dom Joao VI,-23.00952,-43.53988,,,0,52615171060,,,BRT Transoeste,1
-42412874010,,Ilha Pura,Avenida Salvador Allende próximo ao 4750,-22.98954,-43.41764,,,1,,,,BRT Transolímpica,1
-424128740170,,Ilha Pura,Avenida Salvador Allende próximo ao 4750,-22.98951,-43.41767,,,0,42412874010,,,BRT Transolímpica,1
-424128740171,,Ilha Pura,Avenida Salvador Allende próximo ao 4750,-22.98957,-43.41762,,,0,42412874010,,,BRT Transolímpica,1
-51814672030,,Inhoaíba,Avenida Cesário de Melo próximo ao 6851,-22.91336,-43.59575,,,1,,,,BRT Transoeste,0
-518146720370,,Inhoaíba,Avenida Cesário de Melo próximo ao 6851,-22.9133,-43.59572,,,0,51814672030,,,BRT Transoeste,1
-518146720371,,Inhoaíba,Avenida Cesário de Melo próximo ao 6851,-22.91338,-43.59568,,,0,51814672030,,,BRT Transoeste,1
-42412871030,,Interlagos,Avenida das Américas próximo ao 10650,-23.00087,-43.41746,,,1,,,,BRT Transoeste,1
-424128710370,,Interlagos,Avenida das Américas próximo ao 10650,-23.00083,-43.41751,,,0,42412871030,,,BRT Transoeste,1
-424128710371,,Interlagos,Avenida das Américas próximo ao 10650,-23.00092,-43.41743,,,0,42412871030,,,BRT Transoeste,1
-41612473010,,Ipase,Rua Cândido Benício próximo ao 3008,-22.90469,-43.35704,,,1,,,,BRT Transcarioca,1
-416124730170,,Ipase,Rua Cândido Benício próximo ao 3008,-22.90469,-43.35705,,,0,41612473010,,,BRT Transcarioca,1
-416124730171,,Ipase,Rua Cândido Benício próximo ao 3008,-22.90469,-43.357,,,0,41612473010,,,BRT Transcarioca,1
-42412871199,,Jardim Oceânico,Avenida Armando Lombardi próximo ao 19,-23.00665,-43.31262,,,1,,,,BRT Transoeste,1
-424128711990,,Jardim Oceânico,Avenida Armando Lombardi próximo ao 19,-23.0066,-43.31258,,,0,42412871199,,,BRT Transoeste,1
-424128711991,,Jardim Oceânico,Avenida Armando Lombardi próximo ao 19,-23.00675,-43.31246,,,0,42412871199,,,BRT Transoeste,1
-51914872010,,Júlia Miguel,Avenida Cesário de Melo próximo ao 10233,-22.91565,-43.62797,,,1,,,,BRT Transoeste,0
-519148720170,,Júlia Miguel,Avenida Cesário de Melo próximo ao 10233,-22.91559,-43.62794,,,0,51914872010,,,BRT Transoeste,0
-519148720171,,Júlia Miguel,Avenida Cesário de Melo próximo ao 10233,-22.91569,-43.62792,,,0,51914872010,,,BRT Transoeste,0
-41611974010,,Leila Diniz,Corredor Presidente Tancredo Neves,-22.95303,-43.39054,,,1,,,,BRT Transolímpica,1
-416119740170,,Leila Diniz,Corredor Presidente Tancredo Neves,-22.95291,-43.39054,,,0,41611974010,,,BRT Transolímpica,1
-416119740171,,Leila Diniz,Corredor Presidente Tancredo Neves,-22.95295,-43.39043,,,0,41611974010,,,BRT Transolímpica,1
-42412873010,,Lourenço Jorge,Hospital Lourenço Jorge,-22.9946,-43.36589,,,1,,,,BRT Transcarioca,1
-424128730170,,Lourenço Jorge,Hospital Lourenço Jorge,-22.99461,-43.36593,,,0,42412873010,,,BRT Transcarioca,1
-424128730171,,Lourenço Jorge,Hospital Lourenço Jorge,-22.99462,-43.36585,,,0,42412873010,,,BRT Transcarioca,1
-31508373030,,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.87725,-43.33608,,,1,,,,BRT Transcarioca,1
-315083730370,,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.8776,-43.33633,,,0,31508373030,,,BRT Transcarioca,1
-315083730371,,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.87757,-43.33624,,,0,31508373030,,,BRT Transcarioca,1
-315083730380,,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.87682,-43.33587,,,0,31508373030,,,BRT Transcarioca,1
-315083730381,,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.87694,-43.33585,,,0,31508373030,,,BRT Transcarioca,1
-31508373029,,Madureira / Paulo da Portela,Terminal Paulo da Portela próximo ao 315,-22.87877,-43.33642,,,1,,,,BRT Transcarioca,1
-315083730290,,Madureira / Paulo da Portela,Terminal Paulo da Portela próximo ao 315,-22.87767,-43.33682,,,0,31508373029,,,BRT Transcarioca,1
-315083730291,,Madureira / Paulo da Portela,Terminal Paulo da Portela próximo ao 315,-22.87867,-43.33636,,,0,31508373029,,,BRT Transcarioca,1
-52615171020,,Magarça,Avenida Dom Joao VI próximo ao 38,-22.96863,-43.62207,,,1,,,,BRT Transoeste,1
-526151710270,,Magarça,Avenida Dom Joao VI próximo ao 38,-22.96859,-43.62204,,,0,52615171020,,,BRT Transoeste,1
-526151710271,,Magarça,Avenida Dom Joao VI próximo ao 38,-22.96869,-43.622,,,0,52615171020,,,BRT Transoeste,1
-31407373010,,Marambaia,Rua Luísa de Carvalho próximo ao 116,-22.85304,-43.32028,,,1,,,,BRT Transcarioca,0
-314073730170,,Marambaia,Rua Luísa de Carvalho próximo ao 116,-22.85305,-43.32037,,,0,31407373010,,,BRT Transcarioca,0
-314073730171,,Marambaia,Rua Luísa de Carvalho próximo ao 116,-22.85307,-43.32025,,,0,31407373010,,,BRT Transcarioca,0
-33015773010,,Maré,Avenida Brigadeiro Trompowski próximo ao 112,-22.847,-43.24367,,,1,,,,BRT Transcarioca,1
-330157730170,,Maré,Avenida Brigadeiro Trompowski próximo ao 112,-22.84696,-43.24373,,,0,33015773010,,,BRT Transcarioca,1
-330157730171,,Maré,Avenida Brigadeiro Trompowski próximo ao 112,-22.84705,-43.24373,,,0,33015773010,,,BRT Transcarioca,1
-53313774010,,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88654,-43.4008,,,1,,,,BRT Transolímpica,1
-533137740170,,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88695,-43.40093,,,0,53313774010,,,BRT Transolímpica,1
-533137740171,,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88685,-43.40081,,,0,53313774010,,,BRT Transolímpica,1
-533137740180,,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88613,-43.40079,,,0,53313774010,,,BRT Transolímpica,1
-533137740181,,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88611,-43.40069,,,0,53313774010,,,BRT Transolímpica,1
-52615171030,,Mato Alto,Avenida Dom Joao VI,-22.99378,-43.59679,,,1,,,,BRT Transoeste,1
-526151710370,,Mato Alto,Avenida Dom Joao VI,-22.9935,-43.59706,,,0,52615171030,,,BRT Transoeste,1
-526151710371,,Mato Alto,Avenida Dom Joao VI,-22.99357,-43.5971,,,0,52615171030,,,BRT Transoeste,1
-526151710380,,Mato Alto,Avenida Dom Joao VI,-22.99398,-43.59646,,,0,52615171030,,,BRT Transoeste,1
-526151710381,,Mato Alto,Avenida Dom Joao VI,-22.99407,-43.59653,,,0,52615171030,,,BRT Transoeste,1
-31508373040,,Mercadão de Madureira,Avenida Ministro Edgard Romero próximo ao 271,-22.87024,-43.33555,,,1,,,,BRT Transcarioca,1
-315083730470,,Mercadão de Madureira,Avenida Ministro Edgard Romero próximo ao 271,-22.87021,-43.33558,,,0,31508373040,,,BRT Transcarioca,1
-315083730471,,Mercadão de Madureira,Avenida Ministro Edgard Romero próximo ao 271,-22.87023,-43.3355,,,0,31508373040,,,BRT Transcarioca,1
-41612273030,,Merck,Estrada dos Bandeirantes próximo ao 1298,-22.93515,-43.37189,,,1,,,,BRT Transcarioca,1
-416122730370,,Merck,Estrada dos Bandeirantes próximo ao 1298,-22.93524,-43.3719,,,0,41612273030,,,BRT Transcarioca,1
-416122730371,,Merck,Estrada dos Bandeirantes próximo ao 1298,-22.93522,-43.37181,,,0,41612273030,,,BRT Transcarioca,1
-41611574020,,Minha Praia,Avenida Salvador Allende próximo ao 881,-22.96677,-43.39706,,,1,,,,BRT Transolímpica,0
-416115740270,,Minha Praia,Avenida Salvador Allende próximo ao 881,-22.96669,-43.39703,,,0,41611574020,,,BRT Transolímpica,0
-416115740271,,Minha Praia,Avenida Salvador Allende próximo ao 881,-22.96675,-43.39698,,,0,41611574020,,,BRT Transolímpica,0
-41611574010,,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97099,-43.40092,,,1,,,,BRT Transolímpica,1
-416115740170,,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97144,-43.4014,,,0,41611574010,,,BRT Transolímpica,1
-416115740171,,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97146,-43.4013,,,0,41611574010,,,BRT Transolímpica,1
-416115740180,,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97036,-43.4004,,,0,41611574010,,,BRT Transolímpica,1
-416115740181,,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97044,-43.40032,,,0,41611574010,,,BRT Transolímpica,1
-42413271030,,Notre Dame,Avenida das Américas próximo ao 19338,-23.0206,-43.50016,,,1,,,,BRT Transoeste,1
-424132710370,,Notre Dame,Avenida das Américas próximo ao 19338,-23.02056,-43.50012,,,0,42413271030,,,BRT Transoeste,1
-424132710371,,Notre Dame,Avenida das Américas próximo ao 19338,-23.02065,-43.50016,,,0,42413271030,,,BRT Transoeste,1
-42413271080,,Nova Barra,Avenida das Américas próximo ao 16313,-23.01562,-43.47151,,,1,,,,BRT Transoeste,1
-424132710870,,Nova Barra,Avenida das Américas próximo ao 16313,-23.01559,-43.47157,,,0,42413271080,,,BRT Transoeste,1
-424132710871,,Nova Barra,Avenida das Américas próximo ao 16313,-23.01564,-43.47141,,,0,42413271080,,,BRT Transoeste,1
-42412871080,,Novo Leblon,Avenida das Américas próximo ao 6800,-23.00042,-43.38322,,,1,,,,BRT Transoeste,1
-424128710870,,Novo Leblon,Avenida das Américas próximo ao 6800,-23.00037,-43.38322,,,0,42412871080,,,BRT Transoeste,1
-424128710871,,Novo Leblon,Avenida das Américas próximo ao 6800,-23.00047,-43.38317,,,0,42412871080,,,BRT Transoeste,1
-31004273010,,Olaria,Rua Leopoldina Rêgo próximo ao 342,-22.84858,-43.26542,,,1,,,,BRT Transcarioca,0
-310042730170,,Olaria,Rua Leopoldina Rêgo próximo ao 342,-22.8485,-43.26544,,,0,31004273010,,,BRT Transcarioca,0
-310042730171,,Olaria,Rua Leopoldina Rêgo próximo ao 342,-22.84856,-43.26549,,,0,31004273010,,,BRT Transcarioca,0
-42412874020,,Olof Palme,Avenida Salvador Allende próximo ao 1537,-22.98177,-43.41022,,,1,,,,BRT Transolímpica,0
-424128740270,,Olof Palme,Avenida Salvador Allende próximo ao 1537,-22.98177,-43.41026,,,0,42412874020,,,BRT Transolímpica,0
-424128740271,,Olof Palme,Avenida Salvador Allende próximo ao 1537,-22.98179,-43.41018,,,0,42412874020,,,BRT Transolímpica,0
-31508373050,,Otaviano,Avenida Ministro Edgard Romero próximo ao 495,-22.86583,-43.33436,,,1,,,,BRT Transcarioca,1
-315083730570,,Otaviano,Avenida Ministro Edgard Romero próximo ao 495,-22.86578,-43.3344,,,0,31508373050,,,BRT Transcarioca,1
-315083730571,,Otaviano,Avenida Ministro Edgard Romero próximo ao 495,-22.86583,-43.33439,,,0,31508373050,,,BRT Transcarioca,1
-41611574060,,Outeiro Santo,Corredor Presidente Tancredo Neves,-22.92796,-43.39597,,,1,,,,BRT Transolímpica,0
-416115740670,,Outeiro Santo,Corredor Presidente Tancredo Neves,-22.92804,-43.39599,,,0,41611574060,,,BRT Transolímpica,0
-416115740671,,Outeiro Santo,Corredor Presidente Tancredo Neves,-22.92796,-43.39593,,,0,41611574060,,,BRT Transolímpica,0
-53313574020,,Padre João Chribbin,Rua Salustiano Silva próximo ao 1326,-22.87599,-43.40524,,,1,,,,BRT Transolímpica,0
-533135740270,,Padre João Chribbin,Rua Salustiano Silva próximo ao 1326,-22.87597,-43.40531,,,0,53313574020,,,BRT Transolímpica,0
-533135740271,,Padre João Chribbin,Rua Salustiano Silva próximo ao 1326,-22.87593,-43.40524,,,0,53313574020,,,BRT Transolímpica,0
-42412871130,,Parque das Rosas,Avenida das Américas próximo ao 572,-23.00007,-43.35243,,,1,,,,BRT Transoeste,1
-424128711370,,Parque das Rosas,Avenida das Américas próximo ao 572,-23.00002,-43.35246,,,0,42412871130,,,BRT Transoeste,1
-424128711371,,Parque das Rosas,Avenida das Américas próximo ao 572,-23.00011,-43.35249,,,0,42412871130,,,BRT Transoeste,1
-51814472050,,Parque Esperança,Avenida Cesário de Melo próximo ao 4158,-22.9069,-43.57169,,,1,,,,BRT Transoeste,0
-518144720571,,Parque Esperança,Avenida Cesário de Melo próximo ao 4158,-22.90695,-43.57166,,,0,51814472050,,,BRT Transoeste,0
-42412873050,,Parque Olímpico,Avenida Embaixador Abelardo Bueno próximo ao 3401,-22.9732,-43.39358,,,1,,,,BRT Transolímpica,1
-424128730570,,Parque Olímpico,Avenida Embaixador Abelardo Bueno próximo ao 3401,-22.97316,-43.39352,,,0,42412873050,,,BRT Transolímpica,1
-424128730571,,Parque Olímpico,Avenida Embaixador Abelardo Bueno próximo ao 3401,-22.97328,-43.3935,,,0,42412873050,,,BRT Transolímpica,1
-51814772020,,Parque São Paulo,Avenida Cesário de Melo próximo ao 9626,-22.91627,-43.62234,,,1,,,,BRT Transoeste,0
-518147720270,,Parque São Paulo,Avenida Cesário de Melo próximo ao 9626,-22.91623,-43.62232,,,0,51814772020,,,BRT Transoeste,0
-518147720271,,Parque São Paulo,Avenida Cesário de Melo próximo ao 9626,-22.91632,-43.62232,,,0,51814772020,,,BRT Transoeste,0
-31104373010,,Pastor José Santos,Avenida Brás de Pina próximo ao 334,-22.83909,-43.28328,,,1,,,,BRT Transcarioca,1
-311043730170,,Pastor José Santos,Avenida Brás de Pina próximo ao 334,-22.83903,-43.2833,,,0,31104373010,,,BRT Transcarioca,1
-311043730171,,Pastor José Santos,Avenida Brás de Pina próximo ao 334,-22.8391,-43.28335,,,0,31104373010,,,BRT Transcarioca,1
-42412871170,,Paulo Malta Rezende,Avenida das Américas próximo ao 1510,-23.00128,-43.32908,,,1,,,,BRT Transoeste,1
-424128711770,,Paulo Malta Rezende,Avenida das Américas próximo ao 1510,-23.00124,-43.32906,,,0,42412871170,,,BRT Transoeste,1
-424128711771,,Paulo Malta Rezende,Avenida das Américas próximo ao 1510,-23.00132,-43.3291,,,0,42412871170,,,BRT Transoeste,1
-42412871020,,Pedra de Itaúna,Avenida das Américas próximo ao 11365,-23.00291,-43.42402,,,1,,,,BRT Transoeste,1
-424128710270,,Pedra de Itaúna,Avenida das Américas próximo ao 11365,-23.00287,-43.42405,,,0,42412871020,,,BRT Transoeste,1
-424128710271,,Pedra de Itaúna,Avenida das Américas próximo ao 11365,-23.00295,-43.424,,,0,42412871020,,,BRT Transoeste,1
-41611573030,,Pedro Correia,Estrada Coronel Pedro Corrêa próximo ao 870,-22.96756,-43.39058,,,1,,,,BRT Transcarioca,1
-416115730370,,Pedro Correia,Estrada Coronel Pedro Corrêa próximo ao 870,-22.96765,-43.39065,,,0,41611573030,,,BRT Transcarioca,1
-416115730371,,Pedro Correia,Estrada Coronel Pedro Corrêa próximo ao 870,-22.96766,-43.39057,,,0,41611573030,,,BRT Transcarioca,1
-31104473010,,Pedro Taques,Avenida Vicente de Carvalho próximo ao 1490,-22.84143,-43.29877,,,1,,,,BRT Transcarioca,0
-311044730170,,Pedro Taques,Avenida Vicente de Carvalho próximo ao 1490,-22.84138,-43.29877,,,0,31104473010,,,BRT Transcarioca,0
-311044730171,,Pedro Taques,Avenida Vicente de Carvalho próximo ao 1490,-22.84144,-43.29871,,,0,31104473010,,,BRT Transcarioca,0
-31104373030,,Penha I,Avenida Brás de Pina próximo ao 7,-22.84163,-43.27715,,,1,,,,BRT Transcarioca,1
-311043730370,,Penha I,Avenida Brás de Pina próximo ao 7,-22.84138,-43.27679,,,0,31104373030,,,BRT Transcarioca,1
-311043730380,,Penha I,Avenida Brás de Pina próximo ao 7,-22.84186,-43.27746,,,0,31104373030,,,BRT Transcarioca,1
-31104373020,,Penha II,Rua Monsenhor Alves Rocha próximo ao 63,-22.84194,-43.2764,,,1,,,,BRT Transcarioca,1
-311043730271,,Penha II,Rua Monsenhor Alves Rocha próximo ao 63,-22.84201,-43.27684,,,0,31104373020,,,BRT Transcarioca,1
-311043730281,,Penha II,Rua Monsenhor Alves Rocha próximo ao 63,-22.84191,-43.27598,,,0,31104373020,,,BRT Transcarioca,1
-51814472040,,Pina Rangel,Avenida Cesário de Melo próximo ao 1244,-22.90752,-43.57578,,,1,,,,BRT Transoeste,0
-518144720470,,Pina Rangel,Avenida Cesário de Melo próximo ao 1244,-22.90746,-43.57577,,,0,51814472040,,,BRT Transoeste,0
-518144720471,,Pina Rangel,Avenida Cesário de Melo próximo ao 1244,-22.90755,-43.57574,,,0,51814472040,,,BRT Transoeste,0
-52615171010,,Pingo d'Água,Rua Coronel Jaime de Lemos próximo ao 26,-22.9648,-43.6473,,,1,,,,BRT Transoeste,1
-526151710170,,Pingo D'Água,Rua Coronel Jaime de Lemos próximo ao 26,-22.96483,-43.6472,,,0,52615171010,,,BRT Transoeste,1
-526151710171,,Pingo d'Água,Rua Coronel Jaime de Lemos próximo ao 26,-22.9649,-43.64728,,,0,52615171010,,,BRT Transoeste,1
-31507873010,,Pinto Teles,Rua Cândido Benício próximo ao 616,-22.8884,-43.34593,,,1,,,,BRT Transcarioca,1
-315078730170,,Pinto Teles,Rua Cândido Benício próximo ao 616,-22.88837,-43.34597,,,0,31507873010,,,BRT Transcarioca,1
-315078730171,,Pinto Teles,Rua Cândido Benício próximo ao 616,-22.8884,-43.34588,,,0,31507873010,,,BRT Transcarioca,1
-42413271010,,Pontal,Avenida das Américas próximo ao 21138,-23.01628,-43.51602,,,1,,,,BRT Transoeste,1
-424132710170,,Pontal,Avenida das Américas próximo ao 21138,-23.01624,-43.51599,,,0,42413271010,,,BRT Transoeste,1
-424132710171,,Pontal,Avenida das Américas próximo ao 21138,-23.01633,-43.51602,,,0,42413271010,,,BRT Transoeste,1
-42412871010,,Pontões / Barrasul,Avenida das Américas próximo ao 11899,-23.00548,-43.43195,,,1,,,,BRT Transoeste,1
-424128710170,,Pontões / Barrasul,Avenida das Américas próximo ao 11899,-23.00543,-43.43195,,,0,42412871010,,,BRT Transoeste,1
-424128710171,,Pontões / Barrasul,Avenida das Américas próximo ao 11899,-23.00551,-43.4319,,,0,42412871010,,,BRT Transoeste,1
-41611973020,,Praça do Bandolim,Estrada dos Bandeirantes próximo ao 4502,-22.95862,-43.38344,,,1,,,,BRT Transcarioca,1
-416119730270,,Praça do Bandolim,Estrada dos Bandeirantes próximo ao 4502,-22.95858,-43.38345,,,0,41611973020,,,BRT Transcarioca,1
-416119730271,,Praça do Bandolim,Estrada dos Bandeirantes próximo ao 4502,-22.95865,-43.38341,,,0,41611973020,,,BRT Transcarioca,1
-31104473020,,Praça do Carmo,Avenida Brás de Pina próximo ao 868,-22.83878,-43.29499,,,1,,,,BRT Transcarioca,0
-311044730270,,Praça do Carmo,Avenida Brás de Pina próximo ao 868,-22.83873,-43.29502,,,0,31104473020,,,BRT Transcarioca,0
-311044730271,,Praça do Carmo,Avenida Brás de Pina próximo ao 868,-22.83882,-43.29497,,,0,31104473020,,,BRT Transcarioca,0
-41612473020,,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89773,-43.35224,,,1,,,,BRT Transcarioca,1
-416124730270,,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89801,-43.35253,,,0,41612473020,,,BRT Transcarioca,1
-416124730271,,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89805,-43.35245,,,0,41612473020,,,BRT Transcarioca,1
-416124730280,,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89741,-43.35204,,,0,41612473020,,,BRT Transcarioca,1
-416124730281,,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89742,-43.35195,,,0,41612473020,,,BRT Transcarioca,1
-51814472020,,Prefeito Alim Pedro,Rua Gramado próximo ao 6964,-22.90367,-43.56629,,,1,,,,BRT Transoeste,0
-518144720270,,Prefeito Alim Pedro,Rua Gramado próximo ao 6964,-22.90363,-43.56629,,,0,51814472020,,,BRT Transoeste,0
-42413271040,,Recanto das Garças,Avenida das Américas próximo ao 19581,-23.021,-43.49659,,,1,,,,BRT Transoeste,0
-424132710470,,Recanto das Garças,Avenida das Américas próximo ao 19581,-23.02095,-43.4966,,,0,42413271040,,,BRT Transoeste,0
-424132710471,,Recanto das Garças,Avenida das Américas próximo ao 19581,-23.02107,-43.49658,,,0,42413271040,,,BRT Transoeste,0
-41611573050,,Recanto das Palmeiras,Estrada dos Bandeirantes próximo ao 2663,-22.94827,-43.37242,,,1,,,,BRT Transcarioca,0
-416115730570,,Recanto das Palmeiras,Estrada dos Bandeirantes próximo ao 2663,-22.94826,-43.37246,,,0,41611573050,,,BRT Transcarioca,0
-416115730571,,Recanto das Palmeiras,Estrada dos Bandeirantes próximo ao 2663,-22.94827,-43.37237,,,0,41611573050,,,BRT Transcarioca,0
-42413274019,,Recreio,Avenida Alfredo Balthazar da Silveira próximo ao 580,-23.00843,-43.44038,,,1,,,,BRT Transolímpica,1
-424132740190,,Recreio,Avenida Alfredo Balthazar da Silveira próximo ao 580,-23.00835,-43.44043,,,0,42413274019,,,BRT Transolímpica,1
-424132740191,,Recreio,Avenida Alfredo Balthazar da Silveira próximo ao 580,-23.0085,-43.44036,,,0,42413274019,,,BRT Transolímpica,1
-42413271050,,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01963,-43.48729,,,1,,,,BRT Transoeste,1
-424132710570,,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01949,-43.48692,,,0,42413271050,,,BRT Transoeste,1
-424132710571,,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01956,-43.48686,,,0,42413271050,,,BRT Transoeste,1
-424132710580,,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01969,-43.48772,,,0,42413271050,,,BRT Transoeste,1
-424132710581,,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01979,-43.48766,,,0,42413271050,,,BRT Transoeste,1
-41611573020,,Rede Sarah,Avenida Embaixador Abelardo Bueno próximo ao 1430,-22.97331,-43.37664,,,1,,,,BRT Transcarioca,1
-416115730270,,Rede Sarah,Avenida Embaixador Abelardo Bueno próximo ao 1430,-22.97336,-43.37666,,,0,41611573020,,,BRT Transcarioca,1
-416115730271,,Rede Sarah,Avenida Embaixador Abelardo Bueno próximo ao 1430,-22.97327,-43.37664,,,0,41611573020,,,BRT Transcarioca,1
-42412871140,,Ricardo Marinho,Avenida das Américas próximo ao 3400,-23.00017,-43.34652,,,1,,,,BRT Transoeste,1
-424128711470,,Ricardo Marinho,Avenida das Américas próximo ao 3400,-23.00011,-43.34654,,,0,42412871140,,,BRT Transoeste,1
-424128711471,,Ricardo Marinho,Avenida das Américas próximo ao 3400,-23.00022,-43.3466,,,0,42412871140,,,BRT Transoeste,1
-42412873040,,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97324,-43.38279,,,1,,,,BRT Transcarioca,1
-424128730470,,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97327,-43.38322,,,0,42412873040,,,BRT Transcarioca,1
-424128730471,,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97319,-43.38326,,,0,42412873040,,,BRT Transcarioca,1
-424128730480,,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97328,-43.38234,,,0,42412873040,,,BRT Transcarioca,1
-424128730481,,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97319,-43.38234,,,0,42412873040,,,BRT Transcarioca,1
-42412874030,,Riocentro,Avenida Salvador Allende próximo ao 13657,-22.97693,-43.40643,,,1,,,,BRT Transolímpica,1
-424128740370,,Riocentro,Avenida Salvador Allende próximo ao 13657,-22.97692,-43.40647,,,0,42412874030,,,BRT Transolímpica,1
-424128740371,,Riocentro,Avenida Salvador Allende próximo ao 13657,-22.97695,-43.40641,,,0,42412874030,,,BRT Transolímpica,1
-42412871050,,Riomar,Avenida das Américas próximo ao 1964,-22.99994,-43.40689,,,1,,,,BRT Transoeste,1
-424128710570,,Riomar,Avenida das Américas próximo ao 1964,-22.9999,-43.40689,,,0,42412871050,,,BRT Transoeste,1
-424128710571,,Riomar,Avenida das Américas próximo ao 1964,-22.99999,-43.40692,,,0,42412871050,,,BRT Transoeste,1
-42413271130,,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00825,-43.44269,,,1,,,,BRT Transoeste,1
-424132711370,,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00812,-43.44229,,,0,42413271130,,,BRT Transoeste,1
-424132711371,,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00819,-43.44225,,,0,42413271130,,,BRT Transoeste,1
-424132711380,,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00833,-43.44313,,,0,42413271130,,,BRT Transoeste,1
-424132711381,,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00841,-43.44311,,,0,42413271130,,,BRT Transoeste,1
-51914971010,,Santa Cruz,Rua Felipe Cardoso próximo ao 1490,-22.91726,-43.68354,,,1,,,,BRT Transoeste,1
-519149710170,,Santa Cruz,Rua Felipe Cardoso próximo ao 1490,-22.91754,-43.6834,,,0,51914971010,,,BRT Transoeste,1
-519149710171,,Santa Cruz,Rua Felipe Cardoso próximo ao 1490,-22.91699,-43.68359,,,0,51914971010,,,BRT Transoeste,1
-41612273020,,Santa Efigênia,Estrada dos Bandeirantes próximo ao 1450,-22.93661,-43.37178,,,1,,,,BRT Transcarioca,1
-416122730280,,Santa Efigênia,Estrada dos Bandeirantes próximo ao 1450,-22.93664,-43.37184,,,0,41612273020,,,BRT Transcarioca,1
-416122730281,,Santa Efigênia,Estrada dos Bandeirantes próximo ao 1450,-22.93665,-43.37175,,,0,41612273020,,,BRT Transcarioca,1
-51914872020,,Santa Eugênia,Avenida Cesário de Melo próximo ao 10809,-22.91677,-43.63283,,,1,,,,BRT Transoeste,1
-519148720270,,Santa Eugênia,Avenida Cesário de Melo próximo ao 10809,-22.91677,-43.63282,,,0,51914872020,,,BRT Transoeste,1
-519148720271,,Santa Eugênia,Avenida Cesário de Melo próximo ao 10809,-22.91684,-43.63282,,,0,51914872020,,,BRT Transoeste,1
-31004173020,,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.85485,-43.25325,,,1,,,,BRT Transcarioca,1
-310041730270,,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.85471,-43.25364,,,0,31004173020,,,BRT Transcarioca,1
-310041730271,,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.8548,-43.25366,,,0,31004173020,,,BRT Transcarioca,1
-310041730280,,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.85488,-43.25293,,,0,31004173020,,,BRT Transcarioca,1
-310041730281,,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.855,-43.25287,,,0,31004173020,,,BRT Transcarioca,1
-42412871060,,Santa Mônica Jardins,Avenida das Américas próximo ao 4,-23.00021,-43.39852,,,1,,,,BRT Transoeste,1
-424128710670,,Santa Mônica Jardins,Avenida das Américas próximo ao 4,-23.00016,-43.3985,,,0,42412871060,,,BRT Transoeste,1
-424128710671,,Santa Mônica Jardins,Avenida das Américas próximo ao 4,-23.00025,-43.39849,,,0,42412871060,,,BRT Transoeste,1
-51914971060,,Santa Veridiana,Estrada da Pedra próximo ao 361,-22.94047,-43.66522,,,1,,,,BRT Transoeste,1
-519149710670,,Santa Veridiana,Estrada da Pedra próximo ao 361,-22.94048,-43.66514,,,0,51914971060,,,BRT Transoeste,1
-519149710671,,Santa Veridiana,Estrada da Pedra próximo ao 361,-22.94054,-43.66518,,,0,51914971060,,,BRT Transoeste,1
-51814672010,,São Jorge,Avenida Cesário de Melo próximo ao 5410,-22.91085,-43.5842,,,1,,,,BRT Transoeste,0
-518146720170,,São Jorge,Avenida Cesário de Melo próximo ao 5410,-22.91079,-43.58417,,,0,51814672010,,,BRT Transoeste,0
-518146720171,,São Jorge,Avenida Cesário de Melo próximo ao 5410,-22.91088,-43.58414,,,0,51814672010,,,BRT Transoeste,0
-53313874010,,São José de Magalhães Bastos,Estrada São Pedro de Alcântara próximo ao 3249,-22.86813,-43.41315,,,1,,,,BRT Transolímpica,1
-533138740170,,São José de Magalhães Bastos,Estrada São Pedro de Alcântara próximo ao 3249,-22.86809,-43.41314,,,0,53313874010,,,BRT Transolímpica,1
-533138740171,,São José de Magalhães Bastos,Estrada São Pedro de Alcântara próximo ao 3249,-22.86815,-43.41306,,,0,53313874010,,,BRT Transolímpica,1
-41612373010,,Tanque,Rua Cândido Benício próximo ao 3948,-22.91558,-43.36137,,,1,,,,BRT Transcarioca,1
-416123730170,,Tanque,Rua Cândido Benício próximo ao 3948,-22.9159,-43.36161,,,0,41612373010,,,BRT Transcarioca,1
-416123730171,,Tanque,Rua Cândido Benício próximo ao 3948,-22.91588,-43.36148,,,0,41612373010,,,BRT Transcarioca,1
-416123730180,,Tanque,Rua Cândido Benício próximo ao 3948,-22.91523,-43.3612,,,0,41612373010,,,BRT Transcarioca,1
-416123730181,,Tanque,Rua Cândido Benício próximo ao 3948,-22.91523,-43.36113,,,0,41612373010,,,BRT Transcarioca,1
-42413274030,,Tapebuias,Avenida Salvador Allende próximo ao 6300,-23.00014,-43.42976,,,1,,,,BRT Transolímpica,0
-424132740370,,Tapebuias,Avenida Salvador Allende próximo ao 6300,-23.00011,-43.4298,,,0,42413274030,,,BRT Transolímpica,0
-424132740371,,Tapebuias,Avenida Salvador Allende próximo ao 6300,-23.00016,-43.42973,,,0,42413274030,,,BRT Transolímpica,0
-41612273050,,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92418,-43.37388,,,1,,,,BRT Transcarioca,1
-416122730570,,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92457,-43.37389,,,0,41612273050,,,BRT Transcarioca,1
-416122730571,,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92455,-43.37379,,,0,41612273050,,,BRT Transcarioca,1
-416122730580,,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92377,-43.37396,,,0,41612273050,,,BRT Transcarioca,1
-416122730581,,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92377,-43.37386,,,0,41612273050,,,BRT Transcarioca,1
-42412871109,,Terminal Alvorada,,-23.00128,-43.36614,,,1,,,,BRT Transoeste,1
-424128711090,,Terminal Alvorada,,-23.0014,-43.36619,,,0,42412871109,,,BRT Transoeste,1
-424128711091,,Terminal Alvorada,,-23.00107,-43.36619,,,0,42412871109,,,BRT Transoeste,1
-41611573069,,Terminal Centro Olímpico,"Av. Embaixador Abelardo Bueno, 73-141",-22.97158,-43.40076,,,1,,,,BRT Transcarioca,1
-416115730690,,Terminal Centro Olímpico,"Av. Embaixador Abelardo Bueno, 73-141",-22.97206,-43.40103,,,0,41611573069,,,BRT Transcarioca,1
-53313574019,,Terminal Sulacap,,-22.88415,-43.39961,,,1,,,,BRT Transolímpica,1
-533135740190,,Terminal Sulacap,,-22.88454,-43.39993,,,0,53313574019,,,BRT Transolímpica,1
-51914972010,,Três Pontes,Avenida Cesário de Melo próximo ao 12196,-22.92543,-43.64995,,,1,,,,BRT Transoeste,0
-519149720170,,Três Pontes,Avenida Cesário de Melo próximo ao 12196,-22.92533,-43.64996,,,0,51914972010,,,BRT Transoeste,0
-519149720171,,Três Pontes,Avenida Cesário de Melo próximo ao 12196,-22.92537,-43.64986,,,0,51914972010,,,BRT Transoeste,0
-31508473010,,Vaz Lobo,Avenida Vicente de Carvalho próximo ao 43,-22.85647,-43.32815,,,1,,,,BRT Transcarioca,1
-315084730170,,Vaz Lobo,Avenida Vicente de Carvalho próximo ao 43,-22.85646,-43.32827,,,0,31508473010,,,BRT Transcarioca,1
-315084730171,,Vaz Lobo,Avenida Vicente de Carvalho próximo ao 43,-22.85653,-43.32822,,,0,31508473010,,,BRT Transcarioca,1
-51914971070,,Vendas de Varanda,Estrada da Pedra próximo ao 2464,-22.95088,-43.6508,,,1,,,,BRT Transoeste,0
-519149710770,,Vendas de Varanda,Estrada da Pedra próximo ao 2464,-22.95088,-43.65075,,,0,51914971070,,,BRT Transoeste,0
-519149710771,,Vendas de Varanda,Estrada da Pedra próximo ao 2464,-22.95094,-43.65081,,,0,51914971070,,,BRT Transoeste,0
-41611574040,,Ventura,Corredor Presidente Tancredo Neves,-22.94786,-43.39173,,,1,,,,BRT Transolímpica,1
-416115740470,,Ventura,Corredor Presidente Tancredo Neves,-22.94782,-43.39187,,,0,41611574040,,,BRT Transolímpica,1
-416115740471,,Ventura,Corredor Presidente Tancredo Neves,-22.94776,-43.39182,,,0,41611574040,,,BRT Transolímpica,1
-42412873030,,Via Parque,Avenida Ayrton Senna próximo ao 3000,-22.98394,-43.36572,,,1,,,,BRT Transcarioca,1
-424128730370,,Via Parque,Avenida Ayrton Senna próximo ao 3000,-22.98396,-43.36576,,,0,42412873030,,,BRT Transcarioca,1
-424128730371,,Via Parque,Avenida Ayrton Senna próximo ao 3000,-22.98397,-43.36567,,,0,42412873030,,,BRT Transcarioca,1
-31407373020,,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85265,-43.31275,,,1,,,,BRT Transcarioca,1
-314073730270,,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85237,-43.31243,,,0,31407373020,,,BRT Transcarioca,1
-314073730271,,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85245,-43.31239,,,0,31407373020,,,BRT Transcarioca,1
-314073730280,,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85281,-43.31302,,,0,31407373020,,,BRT Transcarioca,1
-314073730281,,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85289,-43.31296,,,0,31407373020,,,BRT Transcarioca,1
-31407273010,,Vila Kosmos,Avenida Vicente de Carvalho próximo ao 999,-22.84968,-43.30798,,,1,,,,BRT Transcarioca,1
-314072730170,,Vila Kosmos,Avenida Vicente de Carvalho próximo ao 999,-22.84965,-43.308,,,0,31407273010,,,BRT Transcarioca,1
-314072730171,,Vila Kosmos,Avenida Vicente de Carvalho próximo ao 999,-22.8497,-43.30793,,,0,31407273010,,,BRT Transcarioca,1
-53313574030,,Vila Militar,Estrada São Pedro de Alcântara próximo ao 1933,-22.86221,-43.40062,,,1,,,,BRT Transolímpica,1
-533135740370,,Vila Militar,Estrada São Pedro de Alcântara próximo ao 1933,-22.86217,-43.40062,,,0,53313574030,,,BRT Transolímpica,1
-533135740371,,Vila Militar,Estrada São Pedro de Alcântara próximo ao 1933,-22.86222,-43.40058,,,0,53313574030,,,BRT Transolímpica,1
-51914972020,,Vila Paciência,Avenida Cesário de Melo próximo ao 12735,-22.92838,-43.65381,,,1,,,,BRT Transoeste,0
-519149720270,,Vila Paciência,Avenida Cesário de Melo próximo ao 12735,-22.92828,-43.65375,,,0,51914972020,,,BRT Transoeste,0
-519149720271,,Vila Paciência,Avenida Cesário de Melo próximo ao 12735,-22.92835,-43.65369,,,0,51914972020,,,BRT Transoeste,0
-31508373060,,Vila Queiroz,Avenida Ministro Edgard Romero próximo ao 768,-22.86143,-43.3304,,,1,,,,BRT Transcarioca,1
-315083730670,,Vila Queiroz,Avenida Ministro Edgard Romero próximo ao 768,-22.86132,-43.33037,,,0,31508373060,,,BRT Transcarioca,1
-315083730671,,Vila Queiroz,Avenida Ministro Edgard Romero próximo ao 768,-22.86136,-43.33029,,,0,31508373060,,,BRT Transcarioca,1
-41611573040,,Vila Sapê - IV Centenário,Estrada dos Bandeirantes próximo ao 3293,-22.95221,-43.37457,,,1,,,,BRT Transcarioca,1
-416115730470,,Vila Sapê - IV Centenário,Estrada dos Bandeirantes próximo ao 3293,-22.95217,-43.3746,,,0,41611573040,,,BRT Transcarioca,1
-416115730471,,Vila Sapê - IV Centenário,Estrada dos Bandeirantes próximo ao 3293,-22.95221,-43.37453,,,0,41611573040,,,BRT Transcarioca,1
-51814672040,,Vilar Carioca,Avenida Cesário de Melo próximo ao 54,-22.91418,-43.60133,,,1,,,,BRT Transoeste,0
-518146720470,,Vilar Carioca,Avenida Cesário de Melo próximo ao 54,-22.91414,-43.60127,,,0,51814672040,,,BRT Transoeste,0
-518146720471,,Vilar Carioca,Avenida Cesário de Melo próximo ao 54,-22.91422,-43.60127,,,0,51814672040,,,BRT Transoeste,0
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station,corridor,active
+519148202000300,31 de Outubro,Avenida Cesário de Melo próximo ao 11270,-22.91825,-43.63906,1,,BRT Transoeste,0
+519148202000371,31 de Outubro,Avenida Cesário de Melo próximo ao 11270,-22.91818,-43.63904,0,519148202000300,BRT Transoeste,0
+519148202000372,31 de Outubro,Avenida Cesário de Melo próximo ao 11270,-22.91825,-43.63897,0,519148202000300,BRT Transoeste,0
+424128203000200,Aeroporto de Jacarepaguá,Aeroporto de Jacarepaguá. S/N,-22.98903,-43.36581,1,,BRT Transcarioca,1
+424128203000271,Aeroporto de Jacarepaguá,Aeroporto de Jacarepaguá. S/N,-22.98903,-43.36584,0,424128203000200,BRT Transcarioca,1
+424128203000272,Aeroporto de Jacarepaguá,Aeroporto de Jacarepaguá. S/N,-22.98903,-43.36576,0,424128203000200,BRT Transcarioca,1
+424128201001600,Afrânio Costa,Avenida das Américas próximo ao 1981,-23.00056,-43.33513,1,,BRT Transoeste,1
+424128201001671,Afrânio Costa,Avenida das Américas próximo ao 1981,-23.00052,-43.33515,0,424128201001600,BRT Transoeste,1
+424128201001672,Afrânio Costa,Avenida das Américas próximo ao 1981,-23.00055,-43.3351,0,424128201001600,BRT Transoeste,1
+424128201000700,Américas Park,Avenida das Américas próximo ao 7606,-23.00042,-43.38979,1,,BRT Transoeste,1
+424128201000771,Américas Park,Avenida das Américas próximo ao 7606,-23.00038,-43.38968,0,424128201000700,BRT Transoeste,1
+424128201000772,Américas Park,Avenida das Américas próximo ao 7606,-23.00048,-43.38973,0,424128201000700,BRT Transoeste,1
+518146202000200,Ana Gonzaga,Avenida Cesário de Melo próximo ao 6318,-22.91132,-43.58975,1,,BRT Transoeste,0
+518146202000271,Ana Gonzaga,Avenida Cesário de Melo próximo ao 6318,-22.91126,-43.58972,0,518146202000200,BRT Transoeste,0
+518146202000272,Ana Gonzaga,Avenida Cesário de Melo próximo ao 6318,-22.91135,-43.58968,0,518146202000200,BRT Transoeste,0
+416122203000400,André Rocha,Estrada dos Bandeirantes próximo ao 643,-22.92949,-43.37343,1,,BRT Transcarioca,1
+416122203000471,André Rocha,Estrada dos Bandeirantes próximo ao 643,-22.92948,-43.37347,0,416122203000400,BRT Transcarioca,1
+416122203000472,André Rocha,Estrada dos Bandeirantes próximo ao 643,-22.92948,-43.37339,0,416122203000400,BRT Transcarioca,1
+416122203000600,Aracy Cabral,Avenida Nelson Cardoso próximo ao 796,-22.92016,-43.36821,1,,BRT Transcarioca,1
+416122203000671,Aracy Cabral,Avenida Nelson Cardoso próximo ao 796,-22.92012,-43.36822,0,416122203000600,BRT Transcarioca,1
+416122203000672,Aracy Cabral,Avenida Nelson Cardoso próximo ao 796,-22.92018,-43.36815,0,416122203000600,BRT Transcarioca,1
+416119203000300,Arroio Pavuna,Estrada dos Bandeirantes próximo ao 3917,-22.95527,-43.37735,1,,BRT Transcarioca,0
+416119203000371,Arroio Pavuna,Estrada dos Bandeirantes próximo ao 3917,-22.95526,-43.3774,0,416119203000300,BRT Transcarioca,0
+416119203000372,Arroio Pavuna,Estrada dos Bandeirantes próximo ao 3917,-22.9553,-43.37732,0,416119203000300,BRT Transcarioca,0
+416115204000300,Asa Branca,Avenida Salvador Allende próximo ao 4811,-22.96325,-43.39379,1,,BRT Transolímpica,1
+416115204000371,Asa Branca,Avenida Salvador Allende próximo ao 4811,-22.96315,-43.39376,0,416115204000300,BRT Transolímpica,1
+416115204000372,Asa Branca,Avenida Salvador Allende próximo ao 4811,-22.9632,-43.39368,0,416115204000300,BRT Transolímpica,1
+424128201001500,Barra Garden / Riviera,Avenida das Américas próximo ao 3201,-23.00026,-43.34202,1,,BRT Transoeste,1
+424128201001571,Barra Garden / Riviera,Avenida das Américas próximo ao 3201,-23.00021,-43.34202,0,424128201001500,BRT Transoeste,1
+424128201001572,Barra Garden / Riviera,Avenida das Américas próximo ao 3201,-23.0003,-43.3421,0,424128201001500,BRT Transoeste,1
+424128201001200,Barra Shopping (Expresso),Avenida das Américas próximo ao 4485,-22.99997,-43.35993,1,,BRT Transoeste,0
+424128201001281,Barra Shopping (Expresso),Avenida das Américas próximo ao 4485,-22.99991,-43.35982,0,424128201001200,BRT Transoeste,0
+424128201001282,Barra Shopping (Expresso),Avenida das Américas próximo ao 4485,-23.00004,-43.35986,0,424128201001200,BRT Transoeste,0
+424128201001100,Barra Shopping (Parador),Avenida das Américas próximo ao 4485,-22.99998,-43.36127,1,,BRT Transoeste,1
+424128201001171,Barra Shopping (Parador),Avenida das Américas próximo ao 4485,-22.99993,-43.36131,0,424128201001100,BRT Transoeste,1
+424128201001172,Barra Shopping (Parador),Avenida das Américas próximo ao 4485,-23.00002,-43.3613,0,424128201001100,BRT Transoeste,1
+424132201000900,Benvindo de Novaes,Avenida das Américas próximo ao 15801,-23.01438,-43.46666,1,,BRT Transoeste,0
+424132201000971,Benvindo de Novaes,Avenida das Américas próximo ao 15801,-23.01435,-43.46671,0,424132201000900,BRT Transoeste,0
+424132201000972,Benvindo de Novaes,Avenida das Américas próximo ao 15801,-23.01443,-43.46668,0,424132201000900,BRT Transoeste,0
+416122204000100,Boiúna,Corredor Presidente Tancredo Neves,-22.91567,-43.39808,1,,BRT Transolímpica,1
+416122204000171,Boiúna,Corredor Presidente Tancredo Neves,-22.91569,-43.39812,0,416122204000100,BRT Transolímpica,1
+416122204000172,Boiúna,Corredor Presidente Tancredo Neves,-22.91562,-43.39807,0,416122204000100,BRT Transolímpica,1
+424128201000900,Bosque da Barra,Avenida das Américas próximo ao 205,-23.00032,-43.37748,1,,BRT Transoeste,1
+424128201000971,Bosque da Barra,Avenida das Américas próximo ao 205,-23.00027,-43.37746,0,424128201000900,BRT Transoeste,1
+424128201000972,Bosque da Barra,Avenida das Américas próximo ao 205,-23.00036,-43.37744,0,424128201000900,BRT Transoeste,1
+424128201001800,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.0035,-43.32349,1,,BRT Transoeste,1
+424128201001871,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.00327,-43.3239,0,424128201001800,BRT Transoeste,1
+424128201001872,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.00336,-43.32396,0,424128201001800,BRT Transoeste,1
+424128201001881,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.00365,-43.32298,0,424128201001800,BRT Transoeste,1
+424128201001882,Bosque Marapendi,Avenida das Américas próximo ao 909,-23.00373,-43.32303,0,424128201001800,BRT Transoeste,1
+519149201000400,Cajueiros,Rua Felipe Cardoso próximo ao 1859,-22.93082,-43.67352,1,,BRT Transoeste,0
+519149201000471,Cajueiros,Rua Felipe Cardoso próximo ao 1859,-22.93083,-43.67346,0,519149201000400,BRT Transoeste,0
+519149201000472,Cajueiros,Rua Felipe Cardoso próximo ao 1859,-22.93089,-43.67349,0,519149201000400,BRT Transoeste,0
+315083203000100,Campinho,Rua Domingos Lopes próximo ao 111,-22.88219,-43.3419,1,,BRT Transcarioca,1
+315083203000171,Campinho,Rua Domingos Lopes próximo ao 111,-22.88212,-43.34194,0,315083203000100,BRT Transcarioca,1
+315083203000172,Campinho,Rua Domingos Lopes próximo ao 111,-22.88213,-43.34185,0,315083203000100,BRT Transcarioca,1
+518144202000100,Campo Grande,Rua Aurélio de Figueiredo próximo ao 15,-22.90177,-43.55479,1,,BRT Transoeste,1
+518144202000171,Campo Grande,Rua Aurélio de Figueiredo próximo ao 15,-22.90181,-43.55477,0,518144202000100,BRT Transoeste,1
+518144202000172,Campo Grande,Rua Aurélio de Figueiredo próximo ao 15,-22.90172,-43.5548,0,518144202000100,BRT Transoeste,1
+518144202000600,Cândido Magalhães,Avenida Cesário de Melo próximo ao 3280,-22.90769,-43.56407,1,,BRT Transoeste,0
+518144202000672,Cândido Magalhães,Avenida Cesário de Melo próximo ao 3280,-22.90772,-43.56404,0,518144202000600,BRT Transoeste,0
+416124203000300,Capitão Menezes,Rua Cândido Benício próximo ao 1164,-22.89289,-43.34862,1,,BRT Transcarioca,1
+416124203000371,Capitão Menezes,Rua Cândido Benício próximo ao 1164,-22.89288,-43.34866,0,416124203000300,BRT Transcarioca,1
+416124203000372,Capitão Menezes,Rua Cândido Benício próximo ao 1164,-22.89291,-43.34858,0,416124203000300,BRT Transcarioca,1
+310041203000100,Cardoso de Moraes,Rua Emílio Zaluar próximo ao 3,-22.85743,-43.25809,1,,BRT Transcarioca,0
+310041203000172,Cardoso de Moraes,Rua Emílio Zaluar próximo ao 3,-22.85749,-43.25809,0,310041203000100,BRT Transcarioca,0
+310041203000171,Cardoso Moraes,Rua Emílio Zaluar próximo ao 3,-22.85739,-43.25807,0,310041203000100,BRT Transcarioca,0
+424132204000200,Catedral do Recreio,Avenida Salvador Allende próximo ao 168,-23.00373,-43.43395,1,,BRT Transolímpica,0
+424132204000271,Catedral do Recreio,Avenida Salvador Allende próximo ao 168,-23.0037,-43.43397,0,424132204000200,BRT Transolímpica,0
+424132204000272,Catedral do Recreio,Avenida Salvador Allende próximo ao 168,-23.00376,-43.43391,0,424132204000200,BRT Transolímpica,0
+416115203000100,Centro Metropolitano,Avenida Embaixador Abelardo Bueno próximo ao 511,-22.97338,-43.3656,1,,BRT Transcarioca,1
+416115203000171,Centro Metropolitano,Avenida Embaixador Abelardo Bueno próximo ao 511,-22.97341,-43.36561,0,416115203000100,BRT Transcarioca,1
+416115203000172,Centro Metropolitano,Avenida Embaixador Abelardo Bueno próximo ao 511,-22.97334,-43.36562,0,416115203000100,BRT Transcarioca,1
+519149202000500,Cesarão I,Avenida Cesário de Melo próximo ao 14114,-22.93462,-43.66536,1,,BRT Transoeste,0
+519149202000571,Cesarão I,Avenida Cesário de Melo próximo ao 14114,-22.93452,-43.66535,0,519149202000500,BRT Transoeste,0
+519149202000572,Cesarão I,Avenida Cesário de Melo próximo ao 14114,-22.93458,-43.66527,0,519149202000500,BRT Transoeste,0
+519149202000400,Cesarão II,Avenida Cesário de Melo próximo ao 13674,-22.93344,-43.66197,1,,BRT Transoeste,0
+519149202000471,Cesarão II,Avenida Cesário de Melo próximo ao 13674,-22.93337,-43.66192,0,519149202000400,BRT Transoeste,0
+519149202000472,Cesarão II,Avenida Cesário de Melo próximo ao 13674,-22.93345,-43.66189,0,519149202000400,BRT Transoeste,0
+519149202000300,Cesarão III,Avenida Cesário de Melo próximo ao 13098,-22.93174,-43.65727,1,,BRT Transoeste,0
+519149202000371,Cesarão III,Avenida Cesário de Melo próximo ao 13098,-22.93166,-43.65723,0,519149202000300,BRT Transoeste,0
+519149202000372,Cesarão III,Avenida Cesário de Melo próximo ao 13098,-22.93174,-43.65718,0,519149202000300,BRT Transoeste,0
+519148202000400,Cesarinho,Avenida Cesário de Melo próximo ao 11692,-22.92046,-43.64355,1,,BRT Transoeste,0
+519148202000471,Cesarinho,Avenida Cesário de Melo próximo ao 11692,-22.92037,-43.64348,0,519148202000400,BRT Transoeste,0
+519148202000472,Cesarinho,Avenida Cesário de Melo próximo ao 11692,-22.92046,-43.64344,0,519148202000400,BRT Transoeste,0
+416115204000500,Colônia,Corredor Presidente Tancredo Neves,-22.94098,-43.39464,1,,BRT Transolímpica,1
+416115204000571,Colônia,Corredor Presidente Tancredo Neves,-22.94108,-43.39467,0,416115204000500,BRT Transolímpica,1
+416115204000572,Colônia,Corredor Presidente Tancredo Neves,-22.94106,-43.39459,0,416115204000500,BRT Transolímpica,1
+518147202000100,Cosmos,Avenida Cesário de Melo próximo ao 8960,-22.91566,-43.61608,1,,BRT Transoeste,0
+518147202000171,Cosmos,Avenida Cesário de Melo próximo ao 8960,-22.91563,-43.61602,0,518147202000100,BRT Transoeste,0
+518147202000172,Cosmos,Avenida Cesário de Melo próximo ao 8960,-22.91572,-43.61604,0,518147202000100,BRT Transoeste,0
+526151201000500,CTEX,Avenida Dom Joao VI próximo ao 1618,-23.00523,-43.55844,1,,BRT Transoeste,1
+526151201000571,CTEx,Avenida Dom Joao VI próximo ao 1618,-23.00518,-43.55837,0,526151201000500,BRT Transoeste,1
+526151201000572,CTEx,Avenida Dom Joao VI próximo ao 1618,-23.00527,-43.55841,0,526151201000500,BRT Transoeste,1
+416119203000100,Curicica,Estrada dos Bandeirantes próximo ao 5000,-22.95985,-43.38868,1,,BRT Transcarioca,1
+416119203000171,Curicica,Estrada dos Bandeirantes próximo ao 5000,-22.95981,-43.3887,0,416119203000100,BRT Transcarioca,1
+416119203000172,Curicica,Estrada dos Bandeirantes próximo ao 5000,-22.95988,-43.38863,0,416119203000100,BRT Transcarioca,1
+519149201000500,Curral Falso,Estrada da Pedra próximo ao 2,-22.93655,-43.66694,1,,BRT Transoeste,1
+519149201000571,Curral Falso,Estrada da Pedra próximo ao 2,-22.93648,-43.66691,0,519149201000500,BRT Transoeste,1
+519149201000572,Curral Falso,Estrada da Pedra próximo ao 2,-22.93648,-43.66698,0,519149201000500,BRT Transoeste,1
+416122203000100,Divina Providência,Estrada dos Bandeirantes próximo ao 1793,-22.94066,-43.37255,1,,BRT Transcarioca,0
+416122203000171,Divina Providência,Estrada dos Bandeirantes próximo ao 1793,-22.94067,-43.3726,0,416122203000100,BRT Transcarioca,0
+416122203000172,Divina Providência,Estrada dos Bandeirantes próximo ao 1793,-22.94064,-43.37251,0,416122203000100,BRT Transcarioca,0
+424132201000200,Dom Bosco,Avenida das Américas próximo ao 20055,-23.01821,-43.509,1,,BRT Transoeste,0
+424132201000271,Dom Bosco,Avenida das Américas próximo ao 20055,-23.01817,-43.50896,0,424132201000200,BRT Transoeste,0
+424132201000272,Dom Bosco,Avenida das Américas próximo ao 20055,-23.01825,-43.50904,0,424132201000200,BRT Transoeste,0
+526151201000400,Embrapa,Avenida Dom Joao VI próximo ao 8201,-22.9996,-43.5823,1,,BRT Transoeste,0
+526151201000471,Embrapa,Avenida Dom Joao VI próximo ao 8201,-22.99957,-43.58221,0,526151201000400,BRT Transoeste,0
+526151201000472,Embrapa,Avenida Dom Joao VI próximo ao 8201,-22.99965,-43.58229,0,526151201000400,BRT Transoeste,0
+320105203000199,Fundão,Terminal Aroldo Melodia,-22.83936,-43.23978,1,,BRT Transcarioca,1
+320105203000191,Fundão,Terminal Aroldo Melodia,-22.83946,-43.23977,0,320105203000199,BRT Transcarioca,1
+320104203000200,Galeão - Tom Jobim 1,Aeroporto Internacional do Rio de Janeiro - Galeão - Terminal 1,-22.81108,-43.25148,1,,BRT Transcarioca,1
+320104203000271,Galeão - Tom Jobim 1,Aeroporto Internacional do Rio de Janeiro - Galeão - Terminal 1,-22.81107,-43.25154,0,320104203000200,BRT Transcarioca,1
+320104203000100,Galeão - Tom Jobim 2,Aeroporto Internacional do Rio de Janeiro - Galeão - Terminal 2,-22.81453,-43.24626,1,,BRT Transcarioca,1
+320104203000171,Galeão - Tom Jobim 2,Aeroporto Internacional do Rio de Janeiro - Galeão - Terminal 2,-22.81451,-43.24633,0,320104203000100,BRT Transcarioca,1
+519149201000300,Gastão Rangel,Rua Felipe Cardoso próximo ao 1473,-22.92754,-43.67758,1,,BRT Transoeste,1
+519149201000371,Gastão Rangel,Rua Felipe Cardoso próximo ao 1473,-22.92748,-43.67758,0,519149201000300,BRT Transoeste,0
+519149201000372,Gastão Rangel,Rua Felipe Cardoso próximo ao 1473,-22.92753,-43.67767,0,519149201000300,BRT Transoeste,1
+424132201001200,Gelson Fonseca,Avenida das Américas próximo ao 137,-23.00977,-43.44864,1,,BRT Transoeste,0
+424132201001271,Gelson Fonseca,Avenida das Américas próximo ao 137,-23.00974,-43.44869,0,424132201001200,BRT Transoeste,0
+424132201001272,Gelson Fonseca,Avenida das Américas próximo ao 137,-23.00981,-43.44864,0,424132201001200,BRT Transoeste,0
+519149201000200,General Olímpio,Rua Felipe Cardoso próximo ao 822,-22.92222,-43.67966,1,,BRT Transoeste,1
+519149201000271,General Olímpio,Rua Felipe Cardoso próximo ao 822,-22.92224,-43.67961,0,519149201000200,BRT Transoeste,1
+519149201000272,General Olímpio,Rua Felipe Cardoso próximo ao 822,-22.92227,-43.67969,0,519149201000200,BRT Transoeste,1
+424132201000700,Gilka Machado,Avenida das Américas próximo ao 146,-23.01699,-43.47697,1,,BRT Transoeste,1
+424132201000771,Gilka Machado,Avenida das Américas próximo ao 146,-23.01694,-43.47694,0,424132201000700,BRT Transoeste,1
+424132201000772,Gilka Machado,Avenida das Américas próximo ao 146,-23.01702,-43.47691,0,424132201000700,BRT Transoeste,1
+424132201001000,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.0124,-43.45888,1,,BRT Transoeste,1
+424132201001071,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.01225,-43.45848,0,424132201001000,BRT Transoeste,1
+424132201001072,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.01233,-43.45844,0,424132201001000,BRT Transoeste,1
+424132201001081,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.01245,-43.45931,0,424132201001000,BRT Transoeste,1
+424132201001082,Gláucio Gil,Avenida das Américas próximo ao 15500,-23.01254,-43.45928,0,424132201001000,BRT Transoeste,1
+424128201000400,Golfe Olímpico,Avenida das Américas próximo ao 10101,-23.00003,-43.41218,1,,BRT Transoeste,0
+424128201000471,Golfe Olímpico,Avenida das Américas próximo ao 10101,-22.99998,-43.41221,0,424128201000400,BRT Transoeste,0
+424128201000472,Golfe Olímpico,Avenida das Américas próximo ao 10101,-23.00009,-43.41223,0,424128201000400,BRT Transoeste,0
+518144202000300,Gramado,Rua Gramado próximo ao 190,-22.90444,-43.5706,1,,BRT Transoeste,0
+518144202000371,Gramado,Rua Gramado próximo ao 190,-22.9044,-43.57058,0,518144202000300,BRT Transoeste,0
+311044203000300,Guaporé,Avenida Brás de Pina próximo ao 651,-22.83765,-43.28972,1,,BRT Transcarioca,0
+311044203000371,Guaporé,Avenida Brás de Pina próximo ao 651,-22.8376,-43.28982,0,311044203000300,BRT Transcarioca,0
+311044203000372,Guaporé,Avenida Brás de Pina próximo ao 651,-22.83768,-43.28982,0,311044203000300,BRT Transcarioca,0
+424132201001100,Guignard,Avenida das Américas próximo ao 35,-23.01079,-43.45263,1,,BRT Transoeste,0
+424132201001171,Guignard,Avenida das Américas próximo ao 35,-23.01075,-43.45266,0,424132201001100,BRT Transoeste,0
+424132201001172,Guignard,Avenida das Américas próximo ao 35,-23.01083,-43.45261,0,424132201001100,BRT Transoeste,0
+424132201000600,Guiomar Novaes,Avenida das Américas próximo ao 18500,-23.01843,-43.48261,1,,BRT Transoeste,0
+424132201000671,Guiomar Novaes,Avenida das Américas próximo ao 18500,-23.01839,-43.48262,0,424132201000600,BRT Transoeste,0
+424132201000672,Guiomar Novaes,Avenida das Américas próximo ao 18500,-23.01846,-43.48258,0,424132201000600,BRT Transoeste,0
+311043203000400,Ibiapina,Rua Ibiapina próximo ao 205,-22.84241,-43.2726,1,,BRT Transcarioca,0
+311043203000471,Ibiapina,Rua Ibiapina próximo ao 205,-22.84239,-43.27251,0,311043203000400,BRT Transcarioca,0
+311043203000472,Ibiapina,Rua Ibiapina próximo ao 205,-22.84245,-43.2726,0,311043203000400,BRT Transcarioca,0
+518146202000500,Icurana,Avenida Cesário de Melo próximo ao 7800,-22.91511,-43.60583,1,,BRT Transoeste,0
+518146202000571,Icurana,Avenida Cesário de Melo próximo ao 7800,-22.91504,-43.60579,0,518146202000500,BRT Transoeste,1
+518146202000572,Icurana,Avenida Cesário de Melo próximo ao 7800,-22.91513,-43.60576,0,518146202000500,BRT Transoeste,1
+526151201000600,Ilha de Guaratiba,Avenida Dom Joao VI,-23.00942,-43.53993,1,,BRT Transoeste,1
+526151201000671,Ilha de Guaratiba,Avenida Dom Joao VI,-23.0094,-43.53986,0,526151201000600,BRT Transoeste,1
+526151201000672,Ilha de Guaratiba,Avenida Dom Joao VI,-23.00952,-43.53988,0,526151201000600,BRT Transoeste,1
+424128204000100,Ilha Pura,Avenida Salvador Allende próximo ao 4750,-22.98954,-43.41764,1,,BRT Transolímpica,1
+424128204000171,Ilha Pura,Avenida Salvador Allende próximo ao 4750,-22.98951,-43.41767,0,424128204000100,BRT Transolímpica,1
+424128204000172,Ilha Pura,Avenida Salvador Allende próximo ao 4750,-22.98957,-43.41762,0,424128204000100,BRT Transolímpica,1
+518146202000300,Inhoaíba,Avenida Cesário de Melo próximo ao 6851,-22.91336,-43.59575,1,,BRT Transoeste,0
+518146202000371,Inhoaíba,Avenida Cesário de Melo próximo ao 6851,-22.9133,-43.59572,0,518146202000300,BRT Transoeste,1
+518146202000372,Inhoaíba,Avenida Cesário de Melo próximo ao 6851,-22.91338,-43.59568,0,518146202000300,BRT Transoeste,1
+424128201000300,Interlagos,Avenida das Américas próximo ao 10650,-23.00087,-43.41746,1,,BRT Transoeste,1
+424128201000371,Interlagos,Avenida das Américas próximo ao 10650,-23.00083,-43.41751,0,424128201000300,BRT Transoeste,1
+424128201000372,Interlagos,Avenida das Américas próximo ao 10650,-23.00092,-43.41743,0,424128201000300,BRT Transoeste,1
+416124203000100,Ipase,Rua Cândido Benício próximo ao 3008,-22.90469,-43.35704,1,,BRT Transcarioca,1
+416124203000171,Ipase,Rua Cândido Benício próximo ao 3008,-22.90469,-43.35705,0,416124203000100,BRT Transcarioca,1
+416124203000172,Ipase,Rua Cândido Benício próximo ao 3008,-22.90469,-43.357,0,416124203000100,BRT Transcarioca,1
+424128201001999,Jardim Oceânico,Avenida Armando Lombardi próximo ao 19,-23.00665,-43.31262,1,,BRT Transoeste,1
+424128201001991,Jardim Oceânico,Avenida Armando Lombardi próximo ao 19,-23.0066,-43.31258,0,424128201001999,BRT Transoeste,1
+424128201001992,Jardim Oceânico,Avenida Armando Lombardi próximo ao 19,-23.00675,-43.31246,0,424128201001999,BRT Transoeste,1
+519148202000100,Júlia Miguel,Avenida Cesário de Melo próximo ao 10233,-22.91565,-43.62797,1,,BRT Transoeste,0
+519148202000171,Júlia Miguel,Avenida Cesário de Melo próximo ao 10233,-22.91559,-43.62794,0,519148202000100,BRT Transoeste,0
+519148202000172,Júlia Miguel,Avenida Cesário de Melo próximo ao 10233,-22.91569,-43.62792,0,519148202000100,BRT Transoeste,0
+416119204000100,Leila Diniz,Corredor Presidente Tancredo Neves,-22.95303,-43.39054,1,,BRT Transolímpica,1
+416119204000171,Leila Diniz,Corredor Presidente Tancredo Neves,-22.95291,-43.39054,0,416119204000100,BRT Transolímpica,1
+416119204000172,Leila Diniz,Corredor Presidente Tancredo Neves,-22.95295,-43.39043,0,416119204000100,BRT Transolímpica,1
+424128203000100,Lourenço Jorge,Hospital Lourenço Jorge,-22.9946,-43.36589,1,,BRT Transcarioca,1
+424128203000171,Lourenço Jorge,Hospital Lourenço Jorge,-22.99461,-43.36593,0,424128203000100,BRT Transcarioca,1
+424128203000172,Lourenço Jorge,Hospital Lourenço Jorge,-22.99462,-43.36585,0,424128203000100,BRT Transcarioca,1
+315083203000300,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.87725,-43.33608,1,,BRT Transcarioca,1
+315083203000371,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.8776,-43.33633,0,315083203000300,BRT Transcarioca,1
+315083203000372,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.87757,-43.33624,0,315083203000300,BRT Transcarioca,1
+315083203000381,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.87682,-43.33587,0,315083203000300,BRT Transcarioca,1
+315083203000382,Madureira / Manaceia,Rua Carolina Machado próximo ao 778,-22.87694,-43.33585,0,315083203000300,BRT Transcarioca,1
+315083203000299,Madureira / Paulo da Portela,Terminal Paulo da Portela próximo ao 315,-22.87877,-43.33642,1,,BRT Transcarioca,1
+315083203000291,Madureira / Paulo da Portela,Terminal Paulo da Portela próximo ao 315,-22.87767,-43.33682,0,315083203000299,BRT Transcarioca,1
+315083203000292,Madureira / Paulo da Portela,Terminal Paulo da Portela próximo ao 315,-22.87867,-43.33636,0,315083203000299,BRT Transcarioca,1
+526151201000200,Magarça,Avenida Dom Joao VI próximo ao 38,-22.96863,-43.62207,1,,BRT Transoeste,1
+526151201000271,Magarça,Avenida Dom Joao VI próximo ao 38,-22.96859,-43.62204,0,526151201000200,BRT Transoeste,1
+526151201000272,Magarça,Avenida Dom Joao VI próximo ao 38,-22.96869,-43.622,0,526151201000200,BRT Transoeste,1
+314073203000100,Marambaia,Rua Luísa de Carvalho próximo ao 116,-22.85304,-43.32028,1,,BRT Transcarioca,0
+314073203000171,Marambaia,Rua Luísa de Carvalho próximo ao 116,-22.85305,-43.32037,0,314073203000100,BRT Transcarioca,0
+314073203000172,Marambaia,Rua Luísa de Carvalho próximo ao 116,-22.85307,-43.32025,0,314073203000100,BRT Transcarioca,0
+330157203000100,Maré,Avenida Brigadeiro Trompowski próximo ao 112,-22.847,-43.24367,1,,BRT Transcarioca,1
+330157203000171,Maré,Avenida Brigadeiro Trompowski próximo ao 112,-22.84696,-43.24373,0,330157203000100,BRT Transcarioca,1
+330157203000172,Maré,Avenida Brigadeiro Trompowski próximo ao 112,-22.84705,-43.24373,0,330157203000100,BRT Transcarioca,1
+533137204000100,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88654,-43.4008,1,,BRT Transolímpica,1
+533137204000171,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88695,-43.40093,0,533137204000100,BRT Transolímpica,1
+533137204000172,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88685,-43.40081,0,533137204000100,BRT Transolímpica,1
+533137204000181,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88613,-43.40079,0,533137204000100,BRT Transolímpica,1
+533137204000182,Marechal Fontenelle,Corredor Presidente Tancredo Neves,-22.88611,-43.40069,0,533137204000100,BRT Transolímpica,1
+526151201000300,Mato Alto,Avenida Dom Joao VI,-22.99378,-43.59679,1,,BRT Transoeste,1
+526151201000371,Mato Alto,Avenida Dom Joao VI,-22.9935,-43.59706,0,526151201000300,BRT Transoeste,1
+526151201000372,Mato Alto,Avenida Dom Joao VI,-22.99357,-43.5971,0,526151201000300,BRT Transoeste,1
+526151201000381,Mato Alto,Avenida Dom Joao VI,-22.99398,-43.59646,0,526151201000300,BRT Transoeste,1
+526151201000382,Mato Alto,Avenida Dom Joao VI,-22.99407,-43.59653,0,526151201000300,BRT Transoeste,1
+315083203000400,Mercadão de Madureira,Avenida Ministro Edgard Romero próximo ao 271,-22.87024,-43.33555,1,,BRT Transcarioca,1
+315083203000471,Mercadão de Madureira,Avenida Ministro Edgard Romero próximo ao 271,-22.87021,-43.33558,0,315083203000400,BRT Transcarioca,1
+315083203000472,Mercadão de Madureira,Avenida Ministro Edgard Romero próximo ao 271,-22.87023,-43.3355,0,315083203000400,BRT Transcarioca,1
+416122203000300,Merck,Estrada dos Bandeirantes próximo ao 1298,-22.93515,-43.37189,1,,BRT Transcarioca,1
+416122203000371,Merck,Estrada dos Bandeirantes próximo ao 1298,-22.93524,-43.3719,0,416122203000300,BRT Transcarioca,1
+416122203000372,Merck,Estrada dos Bandeirantes próximo ao 1298,-22.93522,-43.37181,0,416122203000300,BRT Transcarioca,1
+416115204000200,Minha Praia,Avenida Salvador Allende próximo ao 881,-22.96677,-43.39706,1,,BRT Transolímpica,0
+416115204000271,Minha Praia,Avenida Salvador Allende próximo ao 881,-22.96669,-43.39703,0,416115204000200,BRT Transolímpica,0
+416115204000272,Minha Praia,Avenida Salvador Allende próximo ao 881,-22.96675,-43.39698,0,416115204000200,BRT Transolímpica,0
+416115204000100,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97099,-43.40092,1,,BRT Transolímpica,1
+416115204000171,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97144,-43.4014,0,416115204000100,BRT Transolímpica,1
+416115204000172,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97146,-43.4013,0,416115204000100,BRT Transolímpica,1
+416115204000181,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97036,-43.4004,0,416115204000100,BRT Transolímpica,1
+416115204000182,Morro do Outeiro,Avenida Salvador Allende próximo ao 1400,-22.97044,-43.40032,0,416115204000100,BRT Transolímpica,1
+424132201000300,Notre Dame,Avenida das Américas próximo ao 19338,-23.0206,-43.50016,1,,BRT Transoeste,1
+424132201000371,Notre Dame,Avenida das Américas próximo ao 19338,-23.02056,-43.50012,0,424132201000300,BRT Transoeste,1
+424132201000372,Notre Dame,Avenida das Américas próximo ao 19338,-23.02065,-43.50016,0,424132201000300,BRT Transoeste,1
+424132201000800,Nova Barra,Avenida das Américas próximo ao 16313,-23.01562,-43.47151,1,,BRT Transoeste,1
+424132201000871,Nova Barra,Avenida das Américas próximo ao 16313,-23.01559,-43.47157,0,424132201000800,BRT Transoeste,1
+424132201000872,Nova Barra,Avenida das Américas próximo ao 16313,-23.01564,-43.47141,0,424132201000800,BRT Transoeste,1
+424128201000800,Novo Leblon,Avenida das Américas próximo ao 6800,-23.00042,-43.38322,1,,BRT Transoeste,1
+424128201000871,Novo Leblon,Avenida das Américas próximo ao 6800,-23.00037,-43.38322,0,424128201000800,BRT Transoeste,1
+424128201000872,Novo Leblon,Avenida das Américas próximo ao 6800,-23.00047,-43.38317,0,424128201000800,BRT Transoeste,1
+310042203000100,Olaria,Rua Leopoldina Rêgo próximo ao 342,-22.84858,-43.26542,1,,BRT Transcarioca,0
+310042203000171,Olaria,Rua Leopoldina Rêgo próximo ao 342,-22.8485,-43.26544,0,310042203000100,BRT Transcarioca,0
+310042203000172,Olaria,Rua Leopoldina Rêgo próximo ao 342,-22.84856,-43.26549,0,310042203000100,BRT Transcarioca,0
+424128204000200,Olof Palme,Avenida Salvador Allende próximo ao 1537,-22.98177,-43.41022,1,,BRT Transolímpica,0
+424128204000271,Olof Palme,Avenida Salvador Allende próximo ao 1537,-22.98177,-43.41026,0,424128204000200,BRT Transolímpica,0
+424128204000272,Olof Palme,Avenida Salvador Allende próximo ao 1537,-22.98179,-43.41018,0,424128204000200,BRT Transolímpica,0
+315083203000500,Otaviano,Avenida Ministro Edgard Romero próximo ao 495,-22.86583,-43.33436,1,,BRT Transcarioca,1
+315083203000571,Otaviano,Avenida Ministro Edgard Romero próximo ao 495,-22.86578,-43.3344,0,315083203000500,BRT Transcarioca,1
+315083203000572,Otaviano,Avenida Ministro Edgard Romero próximo ao 495,-22.86583,-43.33439,0,315083203000500,BRT Transcarioca,1
+416115204000600,Outeiro Santo,Corredor Presidente Tancredo Neves,-22.92796,-43.39597,1,,BRT Transolímpica,0
+416115204000671,Outeiro Santo,Corredor Presidente Tancredo Neves,-22.92804,-43.39599,0,416115204000600,BRT Transolímpica,0
+416115204000672,Outeiro Santo,Corredor Presidente Tancredo Neves,-22.92796,-43.39593,0,416115204000600,BRT Transolímpica,0
+533135204000200,Padre João Chribbin,Rua Salustiano Silva próximo ao 1326,-22.87599,-43.40524,1,,BRT Transolímpica,0
+533135204000271,Padre João Chribbin,Rua Salustiano Silva próximo ao 1326,-22.87597,-43.40531,0,533135204000200,BRT Transolímpica,0
+533135204000272,Padre João Chribbin,Rua Salustiano Silva próximo ao 1326,-22.87593,-43.40524,0,533135204000200,BRT Transolímpica,0
+424128201001300,Parque das Rosas,Avenida das Américas próximo ao 572,-23.00007,-43.35243,1,,BRT Transoeste,1
+424128201001371,Parque das Rosas,Avenida das Américas próximo ao 572,-23.00002,-43.35246,0,424128201001300,BRT Transoeste,1
+424128201001372,Parque das Rosas,Avenida das Américas próximo ao 572,-23.00011,-43.35249,0,424128201001300,BRT Transoeste,1
+518144202000500,Parque Esperança,Avenida Cesário de Melo próximo ao 4158,-22.9069,-43.57169,1,,BRT Transoeste,0
+518144202000572,Parque Esperança,Avenida Cesário de Melo próximo ao 4158,-22.90695,-43.57166,0,518144202000500,BRT Transoeste,0
+424128203000500,Parque Olímpico,Avenida Embaixador Abelardo Bueno próximo ao 3401,-22.9732,-43.39358,1,,BRT Transolímpica,1
+424128203000571,Parque Olímpico,Avenida Embaixador Abelardo Bueno próximo ao 3401,-22.97316,-43.39352,0,424128203000500,BRT Transolímpica,1
+424128203000572,Parque Olímpico,Avenida Embaixador Abelardo Bueno próximo ao 3401,-22.97328,-43.3935,0,424128203000500,BRT Transolímpica,1
+518147202000200,Parque São Paulo,Avenida Cesário de Melo próximo ao 9626,-22.91627,-43.62234,1,,BRT Transoeste,0
+518147202000271,Parque São Paulo,Avenida Cesário de Melo próximo ao 9626,-22.91623,-43.62232,0,518147202000200,BRT Transoeste,0
+518147202000272,Parque São Paulo,Avenida Cesário de Melo próximo ao 9626,-22.91632,-43.62232,0,518147202000200,BRT Transoeste,0
+311043203000100,Pastor José Santos,Avenida Brás de Pina próximo ao 334,-22.83909,-43.28328,1,,BRT Transcarioca,1
+311043203000171,Pastor José Santos,Avenida Brás de Pina próximo ao 334,-22.83903,-43.2833,0,311043203000100,BRT Transcarioca,1
+311043203000172,Pastor José Santos,Avenida Brás de Pina próximo ao 334,-22.8391,-43.28335,0,311043203000100,BRT Transcarioca,1
+424128201001700,Paulo Malta Rezende,Avenida das Américas próximo ao 1510,-23.00128,-43.32908,1,,BRT Transoeste,1
+424128201001771,Paulo Malta Rezende,Avenida das Américas próximo ao 1510,-23.00124,-43.32906,0,424128201001700,BRT Transoeste,1
+424128201001772,Paulo Malta Rezende,Avenida das Américas próximo ao 1510,-23.00132,-43.3291,0,424128201001700,BRT Transoeste,1
+424128201000200,Pedra de Itaúna,Avenida das Américas próximo ao 11365,-23.00291,-43.42402,1,,BRT Transoeste,1
+424128201000271,Pedra de Itaúna,Avenida das Américas próximo ao 11365,-23.00287,-43.42405,0,424128201000200,BRT Transoeste,1
+424128201000272,Pedra de Itaúna,Avenida das Américas próximo ao 11365,-23.00295,-43.424,0,424128201000200,BRT Transoeste,1
+416115203000300,Pedro Correia,Estrada Coronel Pedro Corrêa próximo ao 870,-22.96756,-43.39058,1,,BRT Transcarioca,1
+416115203000371,Pedro Correia,Estrada Coronel Pedro Corrêa próximo ao 870,-22.96765,-43.39065,0,416115203000300,BRT Transcarioca,1
+416115203000372,Pedro Correia,Estrada Coronel Pedro Corrêa próximo ao 870,-22.96766,-43.39057,0,416115203000300,BRT Transcarioca,1
+311044203000100,Pedro Taques,Avenida Vicente de Carvalho próximo ao 1490,-22.84143,-43.29877,1,,BRT Transcarioca,0
+311044203000171,Pedro Taques,Avenida Vicente de Carvalho próximo ao 1490,-22.84138,-43.29877,0,311044203000100,BRT Transcarioca,0
+311044203000172,Pedro Taques,Avenida Vicente de Carvalho próximo ao 1490,-22.84144,-43.29871,0,311044203000100,BRT Transcarioca,0
+311043203000300,Penha I,Avenida Brás de Pina próximo ao 7,-22.84163,-43.27715,1,,BRT Transcarioca,1
+311043203000371,Penha I,Avenida Brás de Pina próximo ao 7,-22.84138,-43.27679,0,311043203000300,BRT Transcarioca,1
+311043203000381,Penha I,Avenida Brás de Pina próximo ao 7,-22.84186,-43.27746,0,311043203000300,BRT Transcarioca,1
+311043203000200,Penha II,Rua Monsenhor Alves Rocha próximo ao 63,-22.84194,-43.2764,1,,BRT Transcarioca,1
+311043203000272,Penha II,Rua Monsenhor Alves Rocha próximo ao 63,-22.84201,-43.27684,0,311043203000200,BRT Transcarioca,1
+311043203000282,Penha II,Rua Monsenhor Alves Rocha próximo ao 63,-22.84191,-43.27598,0,311043203000200,BRT Transcarioca,1
+518144202000400,Pina Rangel,Avenida Cesário de Melo próximo ao 1244,-22.90752,-43.57578,1,,BRT Transoeste,0
+518144202000471,Pina Rangel,Avenida Cesário de Melo próximo ao 1244,-22.90746,-43.57577,0,518144202000400,BRT Transoeste,0
+518144202000472,Pina Rangel,Avenida Cesário de Melo próximo ao 1244,-22.90755,-43.57574,0,518144202000400,BRT Transoeste,0
+526151201000100,Pingo d'Água,Rua Coronel Jaime de Lemos próximo ao 26,-22.9648,-43.6473,1,,BRT Transoeste,1
+526151201000171,Pingo D'Água,Rua Coronel Jaime de Lemos próximo ao 26,-22.96483,-43.6472,0,526151201000100,BRT Transoeste,1
+526151201000172,Pingo d'Água,Rua Coronel Jaime de Lemos próximo ao 26,-22.9649,-43.64728,0,526151201000100,BRT Transoeste,1
+315078203000100,Pinto Teles,Rua Cândido Benício próximo ao 616,-22.8884,-43.34593,1,,BRT Transcarioca,1
+315078203000171,Pinto Teles,Rua Cândido Benício próximo ao 616,-22.88837,-43.34597,0,315078203000100,BRT Transcarioca,1
+315078203000172,Pinto Teles,Rua Cândido Benício próximo ao 616,-22.8884,-43.34588,0,315078203000100,BRT Transcarioca,1
+424132201000100,Pontal,Avenida das Américas próximo ao 21138,-23.01628,-43.51602,1,,BRT Transoeste,1
+424132201000171,Pontal,Avenida das Américas próximo ao 21138,-23.01624,-43.51599,0,424132201000100,BRT Transoeste,1
+424132201000172,Pontal,Avenida das Américas próximo ao 21138,-23.01633,-43.51602,0,424132201000100,BRT Transoeste,1
+424128201000100,Pontões / Barrasul,Avenida das Américas próximo ao 11899,-23.00548,-43.43195,1,,BRT Transoeste,1
+424128201000171,Pontões / Barrasul,Avenida das Américas próximo ao 11899,-23.00543,-43.43195,0,424128201000100,BRT Transoeste,1
+424128201000172,Pontões / Barrasul,Avenida das Américas próximo ao 11899,-23.00551,-43.4319,0,424128201000100,BRT Transoeste,1
+416119203000200,Praça do Bandolim,Estrada dos Bandeirantes próximo ao 4502,-22.95862,-43.38344,1,,BRT Transcarioca,1
+416119203000271,Praça do Bandolim,Estrada dos Bandeirantes próximo ao 4502,-22.95858,-43.38345,0,416119203000200,BRT Transcarioca,1
+416119203000272,Praça do Bandolim,Estrada dos Bandeirantes próximo ao 4502,-22.95865,-43.38341,0,416119203000200,BRT Transcarioca,1
+311044203000200,Praça do Carmo,Avenida Brás de Pina próximo ao 868,-22.83878,-43.29499,1,,BRT Transcarioca,0
+311044203000271,Praça do Carmo,Avenida Brás de Pina próximo ao 868,-22.83873,-43.29502,0,311044203000200,BRT Transcarioca,0
+311044203000272,Praça do Carmo,Avenida Brás de Pina próximo ao 868,-22.83882,-43.29497,0,311044203000200,BRT Transcarioca,0
+416124203000200,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89773,-43.35224,1,,BRT Transcarioca,1
+416124203000271,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89801,-43.35253,0,416124203000200,BRT Transcarioca,1
+416124203000272,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89805,-43.35245,0,416124203000200,BRT Transcarioca,1
+416124203000281,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89741,-43.35204,0,416124203000200,BRT Transcarioca,1
+416124203000282,Praça Seca,Rua Cândido Benício próximo ao 1812,-22.89742,-43.35195,0,416124203000200,BRT Transcarioca,1
+518144202000200,Prefeito Alim Pedro,Rua Gramado próximo ao 6964,-22.90367,-43.56629,1,,BRT Transoeste,0
+518144202000271,Prefeito Alim Pedro,Rua Gramado próximo ao 6964,-22.90363,-43.56629,0,518144202000200,BRT Transoeste,0
+424132201000400,Recanto das Garças,Avenida das Américas próximo ao 19581,-23.021,-43.49659,1,,BRT Transoeste,0
+424132201000471,Recanto das Garças,Avenida das Américas próximo ao 19581,-23.02095,-43.4966,0,424132201000400,BRT Transoeste,0
+424132201000472,Recanto das Garças,Avenida das Américas próximo ao 19581,-23.02107,-43.49658,0,424132201000400,BRT Transoeste,0
+416115203000500,Recanto das Palmeiras,Estrada dos Bandeirantes próximo ao 2663,-22.94827,-43.37242,1,,BRT Transcarioca,0
+416115203000571,Recanto das Palmeiras,Estrada dos Bandeirantes próximo ao 2663,-22.94826,-43.37246,0,416115203000500,BRT Transcarioca,0
+416115203000572,Recanto das Palmeiras,Estrada dos Bandeirantes próximo ao 2663,-22.94827,-43.37237,0,416115203000500,BRT Transcarioca,0
+424132204000199,Recreio,Avenida Alfredo Balthazar da Silveira próximo ao 580,-23.00843,-43.44038,1,,BRT Transolímpica,1
+424132204000191,Recreio,Avenida Alfredo Balthazar da Silveira próximo ao 580,-23.00835,-43.44043,0,424132204000199,BRT Transolímpica,1
+424132204000192,Recreio,Avenida Alfredo Balthazar da Silveira próximo ao 580,-23.0085,-43.44036,0,424132204000199,BRT Transolímpica,1
+424132201000500,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01963,-43.48729,1,,BRT Transoeste,1
+424132201000571,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01949,-43.48692,0,424132201000500,BRT Transoeste,1
+424132201000572,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01956,-43.48686,0,424132201000500,BRT Transoeste,1
+424132201000581,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01969,-43.48772,0,424132201000500,BRT Transoeste,1
+424132201000582,Recreio Shopping,Avenida das Américas próximo ao 19005,-23.01979,-43.48766,0,424132201000500,BRT Transoeste,1
+416115203000200,Rede Sarah,Avenida Embaixador Abelardo Bueno próximo ao 1430,-22.97331,-43.37664,1,,BRT Transcarioca,1
+416115203000271,Rede Sarah,Avenida Embaixador Abelardo Bueno próximo ao 1430,-22.97336,-43.37666,0,416115203000200,BRT Transcarioca,1
+416115203000272,Rede Sarah,Avenida Embaixador Abelardo Bueno próximo ao 1430,-22.97327,-43.37664,0,416115203000200,BRT Transcarioca,1
+424128201001400,Ricardo Marinho,Avenida das Américas próximo ao 3400,-23.00017,-43.34652,1,,BRT Transoeste,1
+424128201001471,Ricardo Marinho,Avenida das Américas próximo ao 3400,-23.00011,-43.34654,0,424128201001400,BRT Transoeste,1
+424128201001472,Ricardo Marinho,Avenida das Américas próximo ao 3400,-23.00022,-43.3466,0,424128201001400,BRT Transoeste,1
+424128203000400,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97324,-43.38279,1,,BRT Transcarioca,1
+424128203000471,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97327,-43.38322,0,424128203000400,BRT Transcarioca,1
+424128203000472,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97319,-43.38326,0,424128203000400,BRT Transcarioca,1
+424128203000481,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97328,-43.38234,0,424128203000400,BRT Transcarioca,1
+424128203000482,Rio 2,Avenida Embaixador Abelardo Bueno próximo ao 8101,-22.97319,-43.38234,0,424128203000400,BRT Transcarioca,1
+424128204000300,Riocentro,Avenida Salvador Allende próximo ao 13657,-22.97693,-43.40643,1,,BRT Transolímpica,1
+424128204000371,Riocentro,Avenida Salvador Allende próximo ao 13657,-22.97692,-43.40647,0,424128204000300,BRT Transolímpica,1
+424128204000372,Riocentro,Avenida Salvador Allende próximo ao 13657,-22.97695,-43.40641,0,424128204000300,BRT Transolímpica,1
+424128201000500,Riomar,Avenida das Américas próximo ao 1964,-22.99994,-43.40689,1,,BRT Transoeste,1
+424128201000571,Riomar,Avenida das Américas próximo ao 1964,-22.9999,-43.40689,0,424128201000500,BRT Transoeste,1
+424128201000572,Riomar,Avenida das Américas próximo ao 1964,-22.99999,-43.40692,0,424128201000500,BRT Transoeste,1
+424132201001300,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00825,-43.44269,1,,BRT Transoeste,1
+424132201001371,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00812,-43.44229,0,424132201001300,BRT Transoeste,1
+424132201001372,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00819,-43.44225,0,424132201001300,BRT Transoeste,1
+424132201001381,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00833,-43.44313,0,424132201001300,BRT Transoeste,1
+424132201001382,Salvador Allende,Avenida das Américas próximo ao 13600,-23.00841,-43.44311,0,424132201001300,BRT Transoeste,1
+519149201000100,Santa Cruz,Rua Felipe Cardoso próximo ao 1490,-22.91726,-43.68354,1,,BRT Transoeste,1
+519149201000171,Santa Cruz,Rua Felipe Cardoso próximo ao 1490,-22.91754,-43.6834,0,519149201000100,BRT Transoeste,1
+519149201000172,Santa Cruz,Rua Felipe Cardoso próximo ao 1490,-22.91699,-43.68359,0,519149201000100,BRT Transoeste,1
+416122203000200,Santa Efigênia,Estrada dos Bandeirantes próximo ao 1450,-22.93661,-43.37178,1,,BRT Transcarioca,1
+416122203000281,Santa Efigênia,Estrada dos Bandeirantes próximo ao 1450,-22.93664,-43.37184,0,416122203000200,BRT Transcarioca,1
+416122203000282,Santa Efigênia,Estrada dos Bandeirantes próximo ao 1450,-22.93665,-43.37175,0,416122203000200,BRT Transcarioca,1
+519148202000200,Santa Eugênia,Avenida Cesário de Melo próximo ao 10809,-22.91677,-43.63283,1,,BRT Transoeste,1
+519148202000271,Santa Eugênia,Avenida Cesário de Melo próximo ao 10809,-22.91677,-43.63282,0,519148202000200,BRT Transoeste,1
+519148202000272,Santa Eugênia,Avenida Cesário de Melo próximo ao 10809,-22.91684,-43.63282,0,519148202000200,BRT Transoeste,1
+310041203000200,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.85485,-43.25325,1,,BRT Transcarioca,1
+310041203000271,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.85471,-43.25364,0,310041203000200,BRT Transcarioca,1
+310041203000272,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.8548,-43.25366,0,310041203000200,BRT Transcarioca,1
+310041203000281,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.85488,-43.25293,0,310041203000200,BRT Transcarioca,1
+310041203000282,Santa Luzia,Avenida dos Campeões próximo ao 50,-22.855,-43.25287,0,310041203000200,BRT Transcarioca,1
+424128201000600,Santa Mônica Jardins,Avenida das Américas próximo ao 4,-23.00021,-43.39852,1,,BRT Transoeste,1
+424128201000671,Santa Mônica Jardins,Avenida das Américas próximo ao 4,-23.00016,-43.3985,0,424128201000600,BRT Transoeste,1
+424128201000672,Santa Mônica Jardins,Avenida das Américas próximo ao 4,-23.00025,-43.39849,0,424128201000600,BRT Transoeste,1
+519149201000600,Santa Veridiana,Estrada da Pedra próximo ao 361,-22.94047,-43.66522,1,,BRT Transoeste,1
+519149201000671,Santa Veridiana,Estrada da Pedra próximo ao 361,-22.94048,-43.66514,0,519149201000600,BRT Transoeste,1
+519149201000672,Santa Veridiana,Estrada da Pedra próximo ao 361,-22.94054,-43.66518,0,519149201000600,BRT Transoeste,1
+518146202000100,São Jorge,Avenida Cesário de Melo próximo ao 5410,-22.91085,-43.5842,1,,BRT Transoeste,0
+518146202000171,São Jorge,Avenida Cesário de Melo próximo ao 5410,-22.91079,-43.58417,0,518146202000100,BRT Transoeste,0
+518146202000172,São Jorge,Avenida Cesário de Melo próximo ao 5410,-22.91088,-43.58414,0,518146202000100,BRT Transoeste,0
+533138204000100,São José de Magalhães Bastos,Estrada São Pedro de Alcântara próximo ao 3249,-22.86813,-43.41315,1,,BRT Transolímpica,1
+533138204000171,São José de Magalhães Bastos,Estrada São Pedro de Alcântara próximo ao 3249,-22.86809,-43.41314,0,533138204000100,BRT Transolímpica,1
+533138204000172,São José de Magalhães Bastos,Estrada São Pedro de Alcântara próximo ao 3249,-22.86815,-43.41306,0,533138204000100,BRT Transolímpica,1
+416123203000100,Tanque,Rua Cândido Benício próximo ao 3948,-22.91558,-43.36137,1,,BRT Transcarioca,1
+416123203000171,Tanque,Rua Cândido Benício próximo ao 3948,-22.9159,-43.36161,0,416123203000100,BRT Transcarioca,1
+416123203000172,Tanque,Rua Cândido Benício próximo ao 3948,-22.91588,-43.36148,0,416123203000100,BRT Transcarioca,1
+416123203000181,Tanque,Rua Cândido Benício próximo ao 3948,-22.91523,-43.3612,0,416123203000100,BRT Transcarioca,1
+416123203000182,Tanque,Rua Cândido Benício próximo ao 3948,-22.91523,-43.36113,0,416123203000100,BRT Transcarioca,1
+424132204000300,Tapebuias,Avenida Salvador Allende próximo ao 6300,-23.00014,-43.42976,1,,BRT Transolímpica,0
+424132204000371,Tapebuias,Avenida Salvador Allende próximo ao 6300,-23.00011,-43.4298,0,424132204000300,BRT Transolímpica,0
+424132204000372,Tapebuias,Avenida Salvador Allende próximo ao 6300,-23.00016,-43.42973,0,424132204000300,BRT Transolímpica,0
+416122203000500,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92418,-43.37388,1,,BRT Transcarioca,1
+416122203000571,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92457,-43.37389,0,416122203000500,BRT Transcarioca,1
+416122203000572,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92455,-43.37379,0,416122203000500,BRT Transcarioca,1
+416122203000581,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92377,-43.37396,0,416122203000500,BRT Transcarioca,1
+416122203000582,Taquara,Estrada dos Bandeirantes próximo ao 25,-22.92377,-43.37386,0,416122203000500,BRT Transcarioca,1
+424128201001099,Terminal Alvorada,,-23.00128,-43.36614,1,,BRT Transoeste,1
+424128201001091,Terminal Alvorada,,-23.0014,-43.36619,0,424128201001099,BRT Transoeste,1
+424128201001092,Terminal Alvorada,,-23.00107,-43.36619,0,424128201001099,BRT Transoeste,1
+416115203000699,Terminal Centro Olímpico,Av. Embaixador Abelardo Bueno. 73-141,-22.97158,-43.40076,1,,BRT Transcarioca,1
+416115203000691,Terminal Centro Olímpico,Av. Embaixador Abelardo Bueno. 73-141,-22.97206,-43.40103,0,416115203000699,BRT Transcarioca,1
+533135204000199,Terminal Sulacap,,-22.88415,-43.39961,1,,BRT Transolímpica,1
+533135204000191,Terminal Sulacap,,-22.88454,-43.39993,0,533135204000199,BRT Transolímpica,1
+519149202000100,Três Pontes,Avenida Cesário de Melo próximo ao 12196,-22.92543,-43.64995,1,,BRT Transoeste,0
+519149202000171,Três Pontes,Avenida Cesário de Melo próximo ao 12196,-22.92533,-43.64996,0,519149202000100,BRT Transoeste,0
+519149202000172,Três Pontes,Avenida Cesário de Melo próximo ao 12196,-22.92537,-43.64986,0,519149202000100,BRT Transoeste,0
+315084203000100,Vaz Lobo,Avenida Vicente de Carvalho próximo ao 43,-22.85647,-43.32815,1,,BRT Transcarioca,1
+315084203000171,Vaz Lobo,Avenida Vicente de Carvalho próximo ao 43,-22.85646,-43.32827,0,315084203000100,BRT Transcarioca,1
+315084203000172,Vaz Lobo,Avenida Vicente de Carvalho próximo ao 43,-22.85653,-43.32822,0,315084203000100,BRT Transcarioca,1
+519149201000700,Vendas de Varanda,Estrada da Pedra próximo ao 2464,-22.95088,-43.6508,1,,BRT Transoeste,0
+519149201000771,Vendas de Varanda,Estrada da Pedra próximo ao 2464,-22.95088,-43.65075,0,519149201000700,BRT Transoeste,0
+519149201000772,Vendas de Varanda,Estrada da Pedra próximo ao 2464,-22.95094,-43.65081,0,519149201000700,BRT Transoeste,0
+416115204000400,Ventura,Corredor Presidente Tancredo Neves,-22.94786,-43.39173,1,,BRT Transolímpica,1
+416115204000471,Ventura,Corredor Presidente Tancredo Neves,-22.94782,-43.39187,0,416115204000400,BRT Transolímpica,1
+416115204000472,Ventura,Corredor Presidente Tancredo Neves,-22.94776,-43.39182,0,416115204000400,BRT Transolímpica,1
+424128203000300,Via Parque,Avenida Ayrton Senna próximo ao 3000,-22.98394,-43.36572,1,,BRT Transcarioca,1
+424128203000371,Via Parque,Avenida Ayrton Senna próximo ao 3000,-22.98396,-43.36576,0,424128203000300,BRT Transcarioca,1
+424128203000372,Via Parque,Avenida Ayrton Senna próximo ao 3000,-22.98397,-43.36567,0,424128203000300,BRT Transcarioca,1
+314073203000200,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85265,-43.31275,1,,BRT Transcarioca,1
+314073203000271,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85237,-43.31243,0,314073203000200,BRT Transcarioca,1
+314073203000272,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85245,-43.31239,0,314073203000200,BRT Transcarioca,1
+314073203000281,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85281,-43.31302,0,314073203000200,BRT Transcarioca,1
+314073203000282,Vicente de Carvalho,Corredor BRT Transcarioca próximo ao 779,-22.85289,-43.31296,0,314073203000200,BRT Transcarioca,1
+314072203000100,Vila Kosmos,Avenida Vicente de Carvalho próximo ao 999,-22.84968,-43.30798,1,,BRT Transcarioca,1
+314072203000171,Vila Kosmos,Avenida Vicente de Carvalho próximo ao 999,-22.84965,-43.308,0,314072203000100,BRT Transcarioca,1
+314072203000172,Vila Kosmos,Avenida Vicente de Carvalho próximo ao 999,-22.8497,-43.30793,0,314072203000100,BRT Transcarioca,1
+533135204000300,Vila Militar,Estrada São Pedro de Alcântara próximo ao 1933,-22.86221,-43.40062,1,,BRT Transolímpica,1
+533135204000371,Vila Militar,Estrada São Pedro de Alcântara próximo ao 1933,-22.86217,-43.40062,0,533135204000300,BRT Transolímpica,1
+533135204000372,Vila Militar,Estrada São Pedro de Alcântara próximo ao 1933,-22.86222,-43.40058,0,533135204000300,BRT Transolímpica,1
+519149202000200,Vila Paciência,Avenida Cesário de Melo próximo ao 12735,-22.92838,-43.65381,1,,BRT Transoeste,0
+519149202000271,Vila Paciência,Avenida Cesário de Melo próximo ao 12735,-22.92828,-43.65375,0,519149202000200,BRT Transoeste,0
+519149202000272,Vila Paciência,Avenida Cesário de Melo próximo ao 12735,-22.92835,-43.65369,0,519149202000200,BRT Transoeste,0
+315083203000600,Vila Queiroz,Avenida Ministro Edgard Romero próximo ao 768,-22.86143,-43.3304,1,,BRT Transcarioca,1
+315083203000671,Vila Queiroz,Avenida Ministro Edgard Romero próximo ao 768,-22.86132,-43.33037,0,315083203000600,BRT Transcarioca,1
+315083203000672,Vila Queiroz,Avenida Ministro Edgard Romero próximo ao 768,-22.86136,-43.33029,0,315083203000600,BRT Transcarioca,1
+416115203000400,Vila Sapê - IV Centenário,Estrada dos Bandeirantes próximo ao 3293,-22.95221,-43.37457,1,,BRT Transcarioca,1
+416115203000471,Vila Sapê - IV Centenário,Estrada dos Bandeirantes próximo ao 3293,-22.95217,-43.3746,0,416115203000400,BRT Transcarioca,1
+416115203000472,Vila Sapê - IV Centenário,Estrada dos Bandeirantes próximo ao 3293,-22.95221,-43.37453,0,416115203000400,BRT Transcarioca,1
+518146202000400,Vilar Carioca,Avenida Cesário de Melo próximo ao 54,-22.91418,-43.60133,1,,BRT Transoeste,0
+518146202000471,Vilar Carioca,Avenida Cesário de Melo próximo ao 54,-22.91414,-43.60127,0,518146202000400,BRT Transoeste,0
+518146202000472,Vilar Carioca,Avenida Cesário de Melo próximo ao 54,-22.91422,-43.60127,0,518146202000400,BRT Transoeste,0

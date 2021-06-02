@@ -117,8 +117,9 @@ def translate(raw_path):
     original_brt = original_brt[list(cols.keys())].rename(columns=cols)
 
     # drop not executed
-    original_brt = original_brt.dropna(subset=["vehicle_id"])
-
+    original_brt = original_brt.dropna(
+        subset=["vehicle_id", "departure_time", "arrival_time"]
+    )
     # parse datetimes
     original_brt["departure_datetime"] = original_brt.apply(
         lambda x: pd.Timestamp(str(x["date"].date()) + " " + str(x["departure_time"])),

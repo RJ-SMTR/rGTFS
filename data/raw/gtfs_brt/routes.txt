@@ -1,23 +1,23 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-10,148,BRT 10,Santa Cruz - Terminal Alvorada,,3,,000080,FFFFFF
-11,148,BRT 11,Santa Cruz - Terminal Alvorada,,3,,000080,FFFFFF
-12,148,BRT 12,Pingo D'água - Terminal Alvorada,,3,,000080,FFFFFF
-13,148,BRT 13,Mato Alto - Terminal Alvorada,,3,,000080,FFFFFF
-14,148,BRT 14,Campo Grande - Salvador Allende,,3,,000080,FFFFFF
-18,148,BRT 18,Recreio Shopping - Jardim Oceânico,,3,,000080,FFFFFF
-19,148,BRT 19,Pingo D´Água - Salvador Allende,,3,,000080,FFFFFF
-20,148,BRT 20,Santa Cruz - Salvador Allende,,3,,000080,FFFFFF
-22,148,BRT 22,Terminal Alvorada - Jardim Oceânico,,3,,000080,FFFFFF
-25A,148,BRT 25A,Mato Alto - Terminal Alvorada,,3,,000080,FFFFFF
-LECD33,148,BRT LECD 33,Campo Grande - Santa Cruz,,3,,000080,FFFFFF
-50,148,BRT 50,Jardim Oceânico - Terminal Centro Olímpico,,3,,00a44e,FFFFFF
-51,148,BRT 51,Vila Militar - Terminal Recreio,,3,,00a44e,FFFFFF
-51A,148,BRT 51A,Vila Militar - Terminal Alvorada,,3,,00a44e,FFFFFF
-53A,148,BRT 53A,Sulacap - Terminal Alvorada,,3,,00a44e,FFFFFF
-38,148,BRT 38,Galeão - Terminal Alvorada,,3,,FF6600,000000
-31,148,BRT 31,Vicente de Carvalho - Terminal Alvorada,,3,,FF6600,000000
-41,148,BRT 41,Terminal Madureira - Terminal Recreio,,3,,FF6600,000000
-46,148,BRT 46,Penha - Terminal Alvorada,,3,,FF6600,000000
-35A,148,BRT 35A,Terminal Madureira - Jardim Oceânico,,3,,FF6600,000000
-40A,148,BRT 40A,Terminal Madureira - Terminal Alvorada,,3,,FF6600,000000
-42A,148,BRT 42A,Galeão - Madureira Manaceia,,3,,FF6600,000000
+old_route_id,route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+2000010130,20000101130,148,BRT_10,Santa Cruz - Terminal Alvorada,3,000080,FFFFFF
+2000011110,20000111110,148,BRT_11,Santa Cruz - Terminal Alvorada,3,000080,FFFFFF
+2000012130,20000121130,148,BRT_12,Pingo D'água - Terminal Alvorada,3,000080,FFFFFF
+2000013130,20000131130,148,BRT_13,Mato Alto - Terminal Alvorada,3,000080,FFFFFF
+2000014140,20000141140,148,BRT_14,Campo Grande - Salvador Allende,3,000080,FFFFFF
+2000018130,20000181130,148,BRT_18,Recreio Shopping - Jardim Oceânico,3,000080,FFFFFF
+2000019130,20000191130,148,BRT_19,Pingo D´Água - Salvador Allende,3,000080,FFFFFF
+2000020130,20000201130,148,BRT_20,Santa Cruz - Salvador Allende,3,000080,FFFFFF
+2000022110,20000221110,148,BRT_22,Terminal Alvorada - Jardim Oceânico,3,000080,FFFFFF
+200025A110,200025A1110,148,BRT_25A,Mato Alto - Terminal Alvorada,3,000080,FFFFFF
+2000033090,20000339010,148,BRT_LECD33,Campo Grande - Santa Cruz,3,000080,FFFFFF
+2000050110,20000501110,148,BRT_50,Jardim Oceânico - Terminal Centro Olímpico,3,00a44e,FFFFFF
+2000051110,20000511110,148,BRT_51,Vila Militar - Terminal Recreio,3,00a44e,FFFFFF
+200051A110,200051A1110,148,BRT_51A,Vila Militar - Terminal Alvorada,3,00a44e,FFFFFF
+200053A130,200053A1130,148,BRT_53A,Sulacap - Terminal Alvorada,3,00a44e,FFFFFF
+2000038110,20000381110,148,BRT_38,Galeão - Terminal Alvorada,3,FF6600,000000
+2000031140,20000311140,148,BRT_31,Vicente de Carvalho - Terminal Alvorada,3,FF6600,000000
+2000041130,20000411130,148,BRT_41,Terminal Madureira - Terminal Recreio,3,FF6600,000000
+2000046130,20000461130,148,BRT_46,Penha - Terminal Alvorada,3,FF6600,000000
+200035A110,200035A1110,148,BRT_35A,Terminal Madureira - Jardim Oceânico,3,FF6600,000000
+200040A130,200040A1130,148,BRT_40A,Terminal Madureira - Terminal Alvorada,3,FF6600,000000
+200042A110,200042A1110,148,BRT_42A,Galeão - Madureira Manaceia,3,FF6600,000000

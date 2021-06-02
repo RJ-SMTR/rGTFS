@@ -1,6 +1,8 @@
 route_id,direction_id,Serviço,CONCAT,Tipo,tempo_ciclo
 10,1,Santa Cruz x Alvorada,10_Santa Cruz x Alvorada,Expresso,140
 10,0,Alvorada x Santa Cruz,10_Alvorada x Santa Cruz,Expresso,145
+11,0,,,Expresso,160
+11,1,,,Expresso,160
 12,1,Pingo d’Agua x Alvorada,12_Pingo d’Agua x Alvorada,Expresso,110
 12,0,Alvorada x Pingo d’Água,12_Alvorada x Pingo d’Água,Expresso,115
 13,1,Mato alto x Alvorada,13_Mato alto x Alvorada,Expresso,90
@@ -17,6 +19,8 @@ route_id,direction_id,Serviço,CONCAT,Tipo,tempo_ciclo
 22,0,Jd. Oceanico x Alvorada,22_Jd. Oceanico x Alvorada,Parador,45
 31,1,Vicente de Carvalho x Alvorada,31_Vicente de Carvalho x Alvorada,SemiDireto,110
 31,0,Alvorada x Vicente de Carvalho,31_Alvorada x Vicente de Carvalho,SemiDireto,115
+38,0,,,Expresso,160
+38,1,,,Expresso,160
 41,1,Madureira x Recreio,41_Madureira x Recreio,Expresso,100
 41,0,Recreio x Madureira,41_Recreio x Madureira,Expresso,105
 46,1,Penha x Alvorada,46_Penha x Alvorada,Expresso,140
@@ -39,3 +43,7 @@ route_id,direction_id,Serviço,CONCAT,Tipo,tempo_ciclo
 53A,0,Alvorada x Sulacap,53A_Alvorada x Sulacap,Expresso,70
 LECD33,0,Campo Grande x Santa Cruz,LECD33_Campo Grande x Santa Cruz,Parador,40
 LECD33,1,Santa Cruz x Campo Grande,LECD33_Santa Cruz x Campo Grande,Parador,45
+NOVO,,Santa Cruz x Jd. Oceânico,NOVO_Santa Cruz x Jd. Oceânico,Parador,180
+NOVO,,Galeão x Alvorada,NOVO_Galeão x Alvorada,Parador,160
+NOVO,,Jd. Oceânico x Santa Cruz,NOVO_Jd. Oceânico x Santa Cruz,Parador,180
+NOVO,,Jd. Oceânico x Santa Cruz,NOVO_Jd. Oceânico x Santa Cruz,Parador,180
