@@ -7,7 +7,7 @@ from shapely.geometry import Point
 import numpy as np
 from copy import deepcopy
 
-from rGTFS import utils, io
+from rgtfs import utils, io
 from pymove.utils import log as pymove_log
 
 pymove_log.set_verbosity("ERROR")

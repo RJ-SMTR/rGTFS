@@ -1,2 +1,6 @@
 pymove
-jupyter lab
+jupyterlab
+gtfs_kit
+basedosdados
+geopandas
+pandas

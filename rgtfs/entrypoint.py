@@ -49,7 +49,7 @@ def calculate_exits(row, calendar_dates_by_trip_id):
 
 def generate_realized_trips_from_gtfs(gtfs_path):
     """Transforms a GTFS feed to realized_trips format (see README for specification).
-    
+
     It can either read a feed zip file or a folder.
 
     Parameters
