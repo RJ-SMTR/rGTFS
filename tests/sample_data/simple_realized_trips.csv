@@ -1,0 +1,5 @@
+vehicle_id,departure_datetime,arrival_datetime,departure_id,arrival_id,distance,elapsed_time,average_speed,trajectory_type,trip_id,trip_short_name
+,2021-01-01 03:00:00,2021-01-01 03:30:00,0,2,1.5,0.5,3.0,complete_trip,1,
+,2021-01-03 03:00:00,2021-01-03 03:30:00,0,2,1.5,0.5,3.0,complete_trip,1,
+,2021-01-01 03:00:00,2021-01-01 03:30:00,2,0,1.5,0.5,3.0,complete_trip,2,
+,2021-01-03 03:00:00,2021-01-03 03:30:00,2,0,1.5,0.5,3.0,complete_trip,2,
