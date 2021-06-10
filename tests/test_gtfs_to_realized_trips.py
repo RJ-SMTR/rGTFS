@@ -5,7 +5,8 @@ import numpy as np
 from pathlib import Path
 
 sys.path.append("../")
-import rGTFS
+import rgtfs
+from rgtfs import io
 
 
 def round_distance_and_average_speed(df):
@@ -16,7 +17,7 @@ def round_distance_and_average_speed(df):
 
 @pytest.fixture
 def sample_data(tmpdir_factory):
-    return Path(".") / "sample_data"
+    return Path(__file__).parent / "sample_data"
 
 
 @pytest.fixture
@@ -31,14 +32,16 @@ def simple_realized_trips(sample_data):
 
 @pytest.fixture
 def sample_realized_trips(sample_data):
-    csv_path = sample_data / "simple_realized_trips"
-    with open(sample_data, "r") as f:
-        rt = pd.read_csv(f)
+    csv_path = sample_data / "simple_realized_trips.csv"
+    with open(csv_path, "r") as f:
+        rt = pd.read_csv(f, parse_dates=["arrival_datetime", "departure_datetime"])
     return rt
 
 
 def test_simple_gtfs_to_realized(sample_gtfs_path, sample_realized_trips):
-    gtfs = io.read_gtfs(sample_gtfs_path, "km")
-    realized_trips = rgtfs.generate_realized_trips_from_gtfs(gtfs)
-    realized_trips = round_distance_and_average_speed(realized_trips)
-    assert realized_trips == sample_realized_trips
+    rt = rgtfs.generate_realized_trips_from_gtfs(sample_gtfs_path)
+    rt = round_distance_and_average_speed(rt)
+    rt['arrival_id'] = rt['arrival_id'].astype(dtype="int64")
+    rt['departure_id'] = rt['departure_id'].astype(dtype="int64")
+    rt['trip_id'] = rt['trip_id'].astype(dtype="int64")
+    assert rt.equals(sample_realized_trips)

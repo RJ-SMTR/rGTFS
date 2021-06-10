@@ -1,5 +1,6 @@
 import pandas as pd
 import datetime
+import numpy as np
 from copy import deepcopy
 
 from rgtfs import io, tables
@@ -108,6 +109,6 @@ def generate_realized_trips_from_gtfs(gtfs_path):
     # creates missing columns
     for c in tables.realized_trips_cols:
         if c not in realized_trips.columns:
-            realized_trips[c] = None
+            realized_trips[c] = np.nan
 
     return realized_trips[tables.realized_trips_cols]
