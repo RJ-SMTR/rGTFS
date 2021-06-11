@@ -158,19 +158,21 @@ def get_realized_trips(stops, gps, gtfs, ignore_vehicles_with_wrong_route_id):
         matched = match_gps_and_stops(stops, gps)
 
         realized_trips = (
-            matched[matched["route_id_stops"] == matched["route_id_gps"]]
+            matched[
+                matched["route_id_stops"].astype("int64")
+                == matched["route_id_gps"].astype("int64")
+            ]
             .rename(columns={"route_id_gps": "route_id"})
             .groupby("vehicle_id")
             .apply(get_realized_trips_simple)
             .reset_index(drop=True)
         )
-
         # Adds service id
         calendar = treat_calendar(gtfs)
         realized_trips["service_id"] = realized_trips["departure_datetime"].apply(
             lambda r: get_service_id(r, calendar)
         )
-
+        realized_trips["route_id"] = realized_trips["route_id"].astype("string")
         # Adds trip id
         realized_trips = pd.merge(
             realized_trips,
@@ -238,7 +240,7 @@ def main(
     rgtfs = realized_trips_to_gtfs(realized_trips, gtfs)
     rgtfs.write(rgtfs_path)
 
-    return realized_trips, rgtfs
+    return realized_trips
 
 
 if __name__ == "__main__":
