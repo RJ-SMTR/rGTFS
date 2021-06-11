@@ -62,7 +62,7 @@ def simple_rt_from_gps_back(sample_data_path):
 
 @pytest.fixture
 def simple_rt_from_gps_roundtrip(sample_data_path):
-    csv_path = sample_data_path / "simple_csv" / "simple_rt_from_gps_both.csv"
+    csv_path = sample_data_path / "simple_csv" / "simple_rt_from_gps_roundtrip.csv"
     with open(csv_path, "r") as f:
         df = pd.read_csv(f, parse_dates=["arrival_datetime", "departure_datetime"])
     df["route_id"] = df["route_id"].astype("string")
@@ -91,7 +91,7 @@ def test_gps_to_realized_trips_back(
     assert rt.equals(simple_rt_from_gps_back)
 
 
-def test_gps_to_realized_trips_round(
+def test_gps_to_realized_trips_roundtrip(
     sample_gps_roundtrip_path,
     sample_gtfs_path,
     rgtfs_path,
@@ -102,4 +102,3 @@ def test_gps_to_realized_trips_round(
     rt["trip_id"] = rt["trip_id"].astype("string")
     rt["service_id"] = rt["service_id"].astype("string")
     assert rt.equals(simple_rt_from_gps_roundtrip)
-
