@@ -126,6 +126,31 @@ def match_gps_and_stops(
     ]
 
 
+def match_linha_route_id(gps_path, gtfs, unplanned_path="unplanned.csv"):
+
+    gps = pd.read_csv(gps_path)
+    routes = gtfs.routes
+
+    routes["linha"] = routes["route_short_name"].apply(lambda x: x.replace("BRT_", ""))
+
+    merged = gps.merge(routes[["linha", "route_id"]], on="linha", how="left")
+
+    merged["dia"] = pd.to_datetime(merged.datetime).dt.date
+
+    mask = merged["route_id"].isna()
+
+    grouped = merged[mask].groupby("linha")
+
+    unplanned = grouped.count().datetime.rename("n_registros").reset_index()
+    unplanned["dia"] = grouped.dia.unique().reset_index(drop=True)
+    unplanned["dia"] = unplanned["dia"].apply(lambda x: x[0])
+
+    merged.to_csv(gps_path, index=False)
+    unplanned.to_csv(unplanned_path, index=False)
+
+    return merged, unplanned
+
+
 def treat_calendar(gtfs):
 
     calendar = deepcopy(gtfs.calendar)
@@ -159,8 +184,8 @@ def get_realized_trips(stops, gps, gtfs, ignore_vehicles_with_wrong_route_id):
 
         realized_trips = (
             matched[
-                matched["route_id_stops"].astype("int64")
-                == matched["route_id_gps"].astype("int64")
+                matched["route_id_stops"].astype("string")
+                == matched["route_id_gps"].astype("string")
             ]
             .rename(columns={"route_id_gps": "route_id"})
             .groupby("vehicle_id")
@@ -172,7 +197,6 @@ def get_realized_trips(stops, gps, gtfs, ignore_vehicles_with_wrong_route_id):
         realized_trips["service_id"] = realized_trips["departure_datetime"].apply(
             lambda r: get_service_id(r, calendar)
         )
-        realized_trips["route_id"] = realized_trips["route_id"].astype("string")
         # Adds trip id
         realized_trips = pd.merge(
             realized_trips,
@@ -222,11 +246,13 @@ def main(
     stop_buffer_radius=100,
     ignore_vehicles_with_wrong_route_id=True,
 ):
+    gtfs = io.read_gtfs(gtfs_path, "km")
+
+    gps_pre, unplanned = match_linha_route_id(gps_path, gtfs)
 
     gps = io.read_gps(gps_path)
     gps = clean_gps(gps)
 
-    gtfs = io.read_gtfs(gtfs_path, "km")
     first_last_stops = get_first_last_stops(gtfs)
     first_last_stops = add_buffer_around_stops(
         first_last_stops, gtfs, stop_buffer_radius
@@ -240,7 +266,7 @@ def main(
     rgtfs = realized_trips_to_gtfs(realized_trips, gtfs)
     rgtfs.write(rgtfs_path)
 
-    return realized_trips
+    return realized_trips, unplanned
 
 
 if __name__ == "__main__":
