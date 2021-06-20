@@ -1,0 +1,4 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon,location_type,parent_station,corridor,active
+0,start,Start of the simple route,-22.956300,-43.198200,1,,BRT Transoeste,0
+1,middle,Middlepoint of the simple route,-22.953084,-43.189089,0,,BRT Transoeste,0
+2,end,End of the simple route,-22.951475,-43.184533,0,,BRT Transoeste,0

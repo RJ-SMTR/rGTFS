@@ -1,0 +1,3 @@
+old_route_id,route_id,service_id,old_trip_id,trip_id,trip_headsign,direction_id_sigmob,direction_id,old_shape_id,shape_id
+000,1,U,000,2,BRT_SIMPLE_2,2,1,000,002
+000,1,U,000,1,BRT_SIMPLE_1,1,0,000,001

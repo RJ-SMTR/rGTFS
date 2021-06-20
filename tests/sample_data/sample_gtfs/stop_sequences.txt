@@ -1,0 +1,7 @@
+route_id,direction_id,stop_id,stop_sequence,station_name,route_id_direction_id_stop_sequence
+1,2,2,1,end,01_2_1
+1,2,1,2,middle,01_2_2
+1,2,0,3,start,01_2_3
+1,1,0,1,start,01_1_1
+1,1,1,2,middle,01_1_2
+1,1,2,3,end,01_1_3
